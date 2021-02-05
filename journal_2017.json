@@ -1,0 +1,173 @@
+[
+    {
+        "author": [
+            "粟島靖之",
+            "小松廉",
+            "藤井浩光",
+            "田村雄介",
+            "山下淳",
+            "淺間一"
+        ],
+        "title": "ロボット遠隔操作のためのLiDARを用いた全方位3次元測距による俯瞰映像上での障害物提示",
+        "journal": "精密工学会誌",
+        "vol": "Vol.83",
+        "no": "No.12",
+        "page": "pp.1216-1223",
+        "url": "https://doi.org/10.2493/jjspe.83.1216",
+        "year": "2017"
+    }, 
+
+    {
+        "author": [
+            "Shunsuke Hamasaki",
+            "Qi An",
+            "Masataka Murabayashi",
+            "Yusuke Tamura",
+            "Hiroshi Yamakawa",
+            "Atsushi Yamashita",
+            "Hajime Asama"
+        ],
+        "title": "Evaluation of the Effect of Prime Stimulus on Sense of Agency in Stop Operation of the Object in Circular Motion",
+        "journal": "Journal of Advanced Computational Intelligence and Intelligent Informatics",
+        "vol": "Vol.21",
+        "no": "No.7",
+        "page": "pp.1161-1171",
+        "url": "https://doi.org/10.20965/jaciii.2017.p1161",
+        "year": "2017"
+    }, 
+
+
+    {
+        "author": [
+            "Doyeon Kim",
+            "Hanwool Woo",
+            "Yonghoon Ji",
+            "Yusuke Tamura",
+            "Atsushi Yamashita",
+            "Hajime Asama"
+        ],
+        "title": "Effect of Detector Pose Uncertainty in Localization of Radiation Sources",
+        "journal": "E-JOurnal of Advanced Maintenance",
+        "vol": "Vol.9",
+        "no": "No.2",
+        "page": "pp.97-103",
+        "url": "http://www.jsm.or.jp/ejam/Vol.9No.2/AA/AA135/AA135.html",
+        "year": "2017"
+    }, 
+
+    {
+        "author": [
+            "Yusuke Tamura",
+            "Takafumi Akashi",
+            "Hisashi Osumi"
+        ],
+        "title": "Where Robot Looks Is Not Where Person Thinks Robot Looks",
+        "journal": "Journal of Advanced Computational Intelligence and Intelligent Informatics",
+        "vol": "Vol.21",
+        "no": "No.4",
+        "page": "pp.660-666",
+        "url": "https://doi.org/10.20965/jaciii.2017.p0660",
+        "year": "2017"
+    }, 
+
+    {
+        "author": [
+            "Wen Wen",
+            "Daisuke Tomoi",
+            "Hiroshi Yamakawa",
+            "Shunsuke Hamasaki",
+            "Kaoru Takakusaki",
+            "Qi An",
+            "Yusuke Tamura",
+            "Atsushi Yamashita",
+            "Hajime Asama"
+        ],
+        "title": "Continuous Estimation of Stress Using Physiological Signals During a Car Race",
+        "journal": "Psychology",
+        "vol": "Vol.8",
+        "no": "No.7",
+        "page": "pp.978-986",
+        "url": "https://doi.org/10.4236/psych.2017.87064",
+        "year": "2017"
+    }, 
+
+    {
+        "author": [
+            "Hitoshi Kono",
+            "Musab Obaid Alhammadi",
+            "Yusuke Tamura",
+            "Atsushi Yamashita",
+            "Hajime Asama"
+        ],
+        "title": "Distributed Cooperative Fault Diagnosis Method for Internal Components of Robot Systems",
+        "journal": "International Journal of Intelligent Systems and Applications in Robotics",
+        "vol": "Vol.8",
+        "no": "No.1",
+        "page": "pp.1-11",
+        "url": "http://www.cscjournals.org/library/manuscriptinfo.php?mc=IJRA-167",
+        "year": "2017"
+    }, 
+
+    {
+        "author": [
+            "Hanwool Woo",
+            "Yonghoon Ji",
+            "Hitoshi Kono",
+            "Yusuke Tamura",
+            "Yasuhide Kuroda",
+            "Takashi Sugano",
+            "Yasunori Yamamoto",
+            "Atsushi Yamashita",
+            "Hajime Asama"
+        ],
+        "title": "Lane-Change Detection Based on Vehicle-Trajectory Prediction",
+        "journal": "IEEE Robotics and Automation Letters",
+        "vol": "Vol.2",
+        "no": "No.2",
+        "page": "pp.1109-1116",
+        "url": "https://doi.org/10.1109/LRA.2017.2660543",
+        "year": "2017"
+    }, 
+
+    {
+        "author": [
+            "Yuki Ishikawa",
+            "Qi An",
+            "Junki Nakagawa",
+            "Hiroyuki Oka",
+            "Tetsuro Yasui",
+            "Michio Tojima",
+            "Haruhi Inokuchi",
+            "Nobuhiko Haga",
+            "Hiroshi Yamakawa",
+            "Yusuke Tamura",
+            "Atsushi Yamashita",
+            "Hajime Asama"
+        ],
+        "title": "Gait Analysis of Patients with Knee Osteoarthritis by Using Elevation Angle: Confirmation of the Planar Law and Analysis of Angular Difference in the Approximate Plane",
+        "journal": "Advanced Robotics",
+        "vol": "Vol.31",
+        "no": "Issue1-2",
+        "page": "pp.68-79",
+        "url": "https://doi.org/10.1080/01691864.2016.1229217",
+        "year": "2017"
+    }, 
+
+    {
+        "author": [
+            "Ningjia Yang",
+            "Qi An",
+            "Hiroshi Yamakawa",
+            "Yusuke Tamura",
+            "Atsushi Yamashita",
+            "Hajime Asama"
+        ],
+        "title": "Muscle Synergy Structure Using Different Strategies in Human Standing-up Motion",
+        "journal": "Advanced Robotics",
+        "vol": "Vol.31",
+        "no": "Issue1-2",
+        "page": "pp.40-54",
+        "url": "https://doi.org/10.1080/01691864.2016.1238781",
+        "year": "2017" 
+    }
+]
