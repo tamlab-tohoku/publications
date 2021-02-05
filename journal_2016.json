@@ -1,0 +1,77 @@
+[
+    {
+        "author": [
+            "Hitoshi Kono",
+            "Tsuyoshi Suzuki",
+            "Akiya Kamimura",
+            "Koji Tomita",
+            "Yusuke Tamura",
+            "Atsushi Yamashita",
+            "Hajime Asama"
+        ],
+        "title": "Automatic Convergence Estimation by Utilizing Fractal Dimensional Analysis for Reinforcement Learning",
+        "journal": "Journal of Instrumentation, Automation and Systems",
+        "vol": "Vol.3",
+        "no": "No.3",
+        "page": "pp.58-70",
+        "url": "https://doi.org/10.21535/jias.v3i3.934",
+        "year": "2016" 
+    },
+
+    {
+        "author": [
+            "Hanwool Woo",
+            "Yonghon Ji",
+            "Hitoshi Kono",
+            "Yusuke Tamura",
+            "Yasuhide Kuroda",
+            "Takashi Sugano",
+            "Yasunori Yamamoto",
+            "Atsushi Yamashita",
+            "Hajime Asama"
+        ],
+        "title": "Automatic Detection Method of Lane-Changing Intentions Based on Relationship with Adjacent Vehicles Using Artificial Potential Fields",
+        "journal": "International Journal of Automotive Engineering",
+        "vol": "Vol.7",
+        "no": "No.4",
+        "page": "pp.127-134",
+        "url": "https://doi.org/10.20485/jsaeijae.7.4_127",
+        "year": "2016"
+    },
+
+    {
+        "author": [
+            "Wen Wen",
+            "Katsutoshi Muramatsu",
+            "Shunsuke Hamasaki",
+            "Qi An",
+            "Hiroshi Yamakawa",
+            "Yusuke Tamura",
+            "Atsushi Yamashita",
+            "Hajime Asama"
+        ],
+        "title": "Goal-Directed Movement Enhances Body Representation Updating",
+        "journal": "Frontiers in Human Neuroscience",
+        "vol": "Vol.10",
+        "no": "329",
+        "page": "pp.1-10",
+        "url": "https://doi.org/10.3389/fnhum.2016.00329",
+        "year": "2016" 
+    },
+
+    {
+        "author": [
+            "Yusuke Tamura",
+            "Takafumi Akashi",
+            "Shiro Yano",
+            "Hisashi Osumi"
+        ],
+        "title": "Human Visual Attention Model based on Analysis of Magic for Smooth Human-Robot Interaction",
+        "journal": "International Journal of Social Robotics",
+        "vol": "Vol.8",
+        "no": "No.5",
+        "page": "pp.689-694",
+        "url": "https://doi.org/10.1007/s12369-016-0354-y",
+        "year": "2016"
+    }
+]
