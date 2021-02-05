@@ -1,0 +1,123 @@
+[
+    {
+      "author": [
+            "Hanwool Woo",
+            "Yonghoon Ji",
+            "Yusuke Tamura",
+            "Yasuhide Kuroda",
+            "Takashi Sugano",
+            "Yasunori Yamamoto",
+            "Atsushi Yamashita",
+            "Hajime Asama"
+        ],
+        "title": "Trajectory Prediction of Surrounding Vehicles Considering Individual Driving Characteristics",
+        "journal": "International Journal of Automotive Engineering",
+        "vol": "Vol.9",
+        "no": "No.4",
+        "page": "pp.282-288",
+        "url": "https://doi.org/10.20485/jsaeijae.9.4_282",
+        "year": "2018"
+    },
+
+    {
+        "author": [
+            "Wen Wen",
+            "Rin Minohara",
+            "Shunsuke Hamasaki",
+            "Takaki Maeda",
+            "Qi An",
+            "Yusuke Tamura",
+            "Hiroshi Yamakawa",
+            "Atsushi Yamashita",
+            "Hajime Asama"
+        ],
+        "title": "The Readiness Potential Reflects the Reliability of Action Consequence",
+        "journal": "Scientific Reports",
+        "vol": "8",
+        "no": "11865",
+        "page": "pp.1-5",
+        "url": "https://doi.org/10.1038/s41598-018-30410-z",
+        "year": "2018"
+    },
+
+    {
+        "author": [
+            "Masao Sugi",
+            "Ippei Matsumura",
+            "Yusuke Tamura",
+            "Tamio Arai",
+            "Jun Ota"
+        ],
+        "title": "Usability Analysis of Information on Worker's Hands in Animated Assembly Manuals",
+        "journal": "International Journal of Automation Technology",
+        "vol": "Vol.12",
+        "no": "No.4",
+        "page": "pp.524-532",
+        "url": "https://doi.org/10.20965/ijat.2018.p0524",
+        "year": "2018" 
+    }, 
+
+    {
+        "author": [
+            "Yusuke Tamura",
+            "Soichiro Morishita",
+            "Hajime Asama"
+        ],
+        "title": "Development of Fluffy Screen System and Field Trial at a Shopping Mall",
+        "journal": "International Journal of Automation Technology",
+        "vol": "Vol.12",
+        "no": "No.4",
+        "page": "pp.492-498",
+        "url": "https://doi.org/10.20965/ijat.2018.p0492",
+        "year": "2018" 
+    }, 
+
+    {
+        "author": [
+            "Hanwool Woo",
+            "Yonghoon Ji",
+            "Yusuke Tamura",
+            "Yasuhide Kuroda",
+            "Takashi Sugano",
+            "Yasunori Yamamoto",
+            "Atsushi Yamashita",
+            "Hajime Asama"
+        ],
+        "title": "Dynamic State Estimation of Driving Style Based on Driving Risk Feature",
+        "journal": "International Journal of Automotive Engineering",
+        "vol": "Vol.9",
+        "no": "No.1",
+        "page": "pp.31-38",
+        "url": "https://doi.org/10.20485/jsaeijae.9.1_31",
+        "year": "2018"
+    }, 
+
+    {
+        "author": [
+            "Hiroki Kogami",
+            "Qi An",
+            "Ningjia Yang",
+            "Hiroshi Yamakawa",
+            "Yusuke Tamura",
+            "Atsushi Yamashita",
+            "Hajime Asama",
+            "Hiroshi Yamasaki",
+            "Matti Itkonen",
+            "Fady Shibata-Alnajjar",
+            "Shingo Shimoda",
+            "Makoto Kinomoto",
+            "Noriaki Hattori",
+            "Kouji Takahashi",
+            "Takanori Fujii",
+            "Hironori Otomune",
+            "Ichiro Miyai"
+        ],
+        "title": "Effect of Physical Therapy on Muscle Synergy Structure During Standing-up Motion of Hemiplegic Patients",
+        "journal": "IEEE Robotics and Automation Letters",
+        "vol": "Vol.3",
+        "no": "No.3",
+        "page": "pp.2229-2236",
+        "url": "https://doi.org/10.1109/LRA.2018.2811050",
+        "year": "2018" 
+    }
+]
