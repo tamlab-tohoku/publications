@@ -1,4 +1,3 @@
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>
 <script language="javascript" type="text/javascript">
   rep_url = "https://raw.githubusercontent.com/tamlab-tohoku/publications/main/";
 
@@ -9,14 +8,15 @@
       $.getJSON(url2021),
       $.getJSON(url2020)
   ).then((data2021, data2020) => {
-      const cdata = [data2021, data2020];
+      const cdata = data2021.concat(data2020);
+      $("#journal_list").append("<li>" + cdata.length+"<\/li>");
 
-      for(var i in data){
-          var authors = data[i].author.join(', ');
-          $("#journal_list").append("<li>[" + (data.length-i) +"] " + authors + ": <strong>" + data[i].title +"<\/strong>, <i>" + data[i].journal + "<\/i>, " + data[i].vol + ", " + data[i].no + ", " + data[i].page + ", " + data[i].year + ". <a href=\"" + data[i].url + "\">" + data[i].url + "<\/a>");
+      for(var i in cdata){
+          var authors = cdata[i].author.join(', ');
+          $("#journal_list").append("<li>[" + (cdata.length-i) +"] " + authors + ": <strong>" + cdata[i].title +"<\/strong>, <i>" + cdata[i].journal + "<\/i>, " + cdata[i].vol + ", " + cdata[i].no + ", " + cdata[i].page + ", " + cdata[i].year + ". <a href=\"" +cdata[i].url + "\">" + cdata[i].url + "<\/a>");
       }
     }, () => {
-        $("#journal_list").append("<li>Cannot acquire data.<\/li>")
+        $("#journal_list").append("<li>Cannot get data.<\/li>")
     });
   
 </script>
