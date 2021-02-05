@@ -1,0 +1,219 @@
+[
+    {
+        "author": [
+           "Hanwool Woo",
+           "Hirokazu Madokoro",
+           "Kazuhito Sato",
+           "Yusuke Tamura",
+           "Atsushi Yamashita",
+           "Hajime Asama"
+        ],
+        "title": "Advanced Adaptive Cruise Control Based on Operation Characteristic Estimation and Trajectory Prediction",
+        "journal": "Applied Sciences",
+        "vol": "Vol.9",
+        "no": "No.22",
+        "page": "4875, pp.1-18",
+        "url": "https://doi.org/10.3390/app9224875",
+        "year": "2019"
+    },
+
+    {
+        "author": [
+            "Ren Komatsu",
+            "Hiromitsu Fujii",
+            "Yusuke Tamura",
+            "Atsushi Yamashita",
+            "Hajime Asama"
+        ],
+        "title": "Octave Deep Plane-Sweeping Network: Reducing Spatial Redundancy for Learning-Based Plane-Sweeping Stereo",
+        "journal": "IEEE Access",
+        "vol": "Vol.7",
+        "no": "No.1",
+        "page": "pp.150306-150317",
+        "url": "https://doi.org/10.1109/ACCESS.2019.2947195",
+        "year": "2019"
+    },
+
+    {
+        "author": [
+            "Ningjia Yang",
+            "Qi An",
+            "Hiroki Kogami",
+            "Hiroshi Yamakawa",
+            "Yusuke Tamura",
+            "Kouji Takahashi",
+            "Makoto Kinomoto",
+            "Hiroshi Yamasaki",
+            "Matti Itkonen",
+            "Fady Shibata-Alnajjar",
+            "SHingo Shimoda",
+            "Noriaki Hattori",
+            "Takanori Fujii",
+            "Hironori Otomune",
+            "Ichiro Miyai",
+            "Atsushi Yamashita",
+            "Hajime Asama"
+        ],
+        "title": "Temporal Features of Muscle Synergies in Sit-to-stand Motion Reflect the Motor Impairment of Post-Stroke Patients",
+        "journal": "IEEE Transactions on Neural Systems and Rehabilitation Engineering",
+        "vol": "Vol.27",
+        "no": "No.10",
+        "page": "pp.2118-2127",
+        "url": "https://doi.org/10.1109/TNSRE.2019.2939193",
+        "year": "2019"
+    },
+
+    {
+        "author": [
+            "Hanwool Woo",
+            "Yonghoon Ji",
+            "Yusuke Tamura",
+            "Yasuhide Kuroda",
+            "Takashi Sugano",
+            "Yasunori Yamamoto",
+            "Atsushi Yamashita",
+            "Hajime Asama"
+        ],
+        "title": "Lane-Change Detection Based on Individual Driving Style",
+        "journal": "Advanced Robotics",
+        "vol": "Vol.33",
+        "no": "No.20",
+        "page": "pp.1087-1098",
+        "url": "https://doi.org/10.1080/01691864.2019.1659179",
+        "year": "2019"
+    },
+
+    {
+        "author": [
+            "Jiaxu Wu",
+            "Hanwool Woo",
+            "Yusuke Tamura",
+            "Alessandro Moro",
+            "Stefano Massaroli",
+            "Atsushi Yamashita",
+            "Hajime Asama"
+        ],
+        "title": "Pedestrian Trajectory Prediction Using BiRNN Encoder-Decoder Framework",
+        "journal": "Advanced Robotics",
+        "vol": "Vol.33",
+        "no": "No.18",
+        "page": "pp.956-969",
+        "url": "https://doi.org/10.1080/01691864.2019.1635910",
+        "year": "2019"
+    },
+
+    {
+        "author": [
+            "Hiroshi R. Yamasaki",
+            "Qi An",
+            "Makoto Kinomoto",
+            "Koji Takahashi",
+            "Takanori Fujii",
+            "Hiroki Kogami",
+            "Ningjia Yang",
+            "Hiroshi Yamakawa",
+            "Yusuke Tamura",
+            "Matti Itkonen",
+            "Moeka Sonoo",
+            "Fady S.K. Alnajjar",
+            "Atsushi Yamashita",
+            "Hironori Otomune",
+            "Noriaki Hattori",
+            "Hajime Asama",
+            "Ichiro Miyai",
+            "Shingo Shimoda"
+        ],
+        "title": "Organization of Functional Modularity in Sitting Balance Response and Gait Performance After Stroke",
+        "journal": "Clinical Biomimetics",
+        "vol": "Vol.67",
+        "no": "",
+        "page": "pp.61-69",
+        "url": "https://doi.org/10.1016/j.clinbiomech.2019.04.022",
+        "year": "2019"
+    },
+
+    {
+        "author": [
+            "Shunsuke Hamasaki",
+            "Qi An",
+            "Wen Wen",
+            "Yusuke Tamura",
+            "Hiroshi Yamakawa",
+            "Atsushi Yamashita",
+            "Hajime Asama",
+            "Satoshi Unenaka",
+            "Satoshi Shibuya",
+            "Yukari Ohki"
+        ],
+        "title": "Changes in Body Representation of the Human Upper Limb as a Function of Movement and Visual Hand Position",
+        "journal": "Journal of Advanced Computational Intelligence and Intelligent Informatics",
+        "vol": "Vol.23",
+        "no": "No.2",
+        "page": "pp.196-208",
+        "url": "https://doi.org/10.20965/jaciii.2019.p0196",
+        "year": "2019"
+    },
+
+    {
+        "author": [
+            "Qi An",
+            "Yuki Ishikawa",
+            "Wen Wen",
+            "Shu Ishiguro",
+            "Koji Ohata",
+            "Hiroshi Yamakawa",
+            "Yusuke Tamura",
+            "Atsushi Yamashita",
+            "Hajime Asama"
+        ],
+        "title": "Skill Abstraction of Physical Therapists in Hemiplegia Patient Rehabilitation Using a Walking Assist Robot",
+        "journal": "International Journal of Automation Technology",
+        "vol": "Vol.13",
+        "no": "No.2",
+        "page": "pp.271-278",
+        "url": "https://doi.org/10.20965/ijat.2019.p0271",
+        "year": "2019"
+    },
+
+    {
+        "author": [
+            "Kazunori Yoshida",
+            "Qi An",
+            "Arito Yozu",
+            "Ryosuke Chiba",
+            "Kaoru Takakusaki",
+            "Hiroshi Yamakawa",
+            "Yusuke Tamura",
+            "Atsushi Yamashita",
+            "Hajime Asama"
+        ],
+        "title": "Visual and Vestibular Inputs Affect Muscle Synergies Responsible for Body Extension and Stabilization in Sit-to-Stand Motion",
+        "journal": "Frontiers in Neuroscience",
+        "vol": "Vol.12",
+        "no": "1042",
+        "page": "pp.1-12",
+        "url": "https://doi.org/10.3389/fnins.2018.01042",
+        "year": "2019"
+    },
+
+    {
+        "author": [
+            "Yonghoon Ji",
+            "Yusuke Tanaka",
+            "Yusuke Tamura",
+            "Mai Kimura",
+            "Atsushi Umemura",
+            "Yoshiharu Kaneshima",
+            "Hiroki Murakami",
+            "Atsushi Yamashita",
+            "Hajime Asama"
+        ],
+        "title": "Adaptive Motion Planning Based on Vehicle Characteristics and Regulations for Off-Road UGVs",
+        "journal": "IEEE Transactions on Industrial Informatics",
+        "vol": "Vol.15",
+        "no": "No.1",
+        "page": "pp.599-611",
+        "url": "https://doi.org/10.1109/TII.2018.2870662",
+        "year": "2019"
+    }
+]
