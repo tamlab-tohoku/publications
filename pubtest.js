@@ -13,7 +13,7 @@
 
       for(var i in data){
           var authors = data[i].author.join(', ');
-          $("#journal_list").append("<li>[" + (data.length-i) +"] " + authors + ": <strong>" + data[i].title +"<\/strong>, <i>" + data[i].book + "<\/i>, " + data[i].vol + ", " + data[i].no + ", " + data[i].page + ", " + data[i].year + ". <a href=\"" + data[i].url + "\">" + data[i].url + "<\/a>");
+          $("#journal_list").append("<li>[" + (data.length-i) +"] " + authors + ": <strong>" + data[i].title +"<\/strong>, <i>" + data[i].journal + "<\/i>, " + data[i].vol + ", " + data[i].no + ", " + data[i].page + ", " + data[i].year + ". <a href=\"" + data[i].url + "\">" + data[i].url + "<\/a>");
       }
     }, () => {
         $("#journal_list").append("<li>Cannot acquire data.<\/li>")

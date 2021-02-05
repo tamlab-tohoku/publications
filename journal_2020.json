@@ -1,0 +1,207 @@
+[
+    {
+        "author": [
+           "Yusheng Wang",
+           "Yonghoon Ji",
+           "Hanwool Woo",
+           "Yusuke Tamura",
+           "Hiroshi Tsuchiya",
+           "Atsushi Yamashita",
+           "Hajime Asama"
+        ],
+        "title": "Acoustic Camera-Based Pose Graph SLAM for Dense 3-D Mapping in Underwater Environments",
+        "journal": "IEEE Journal of Oceanic Engineering",
+        "vol": "",
+        "no": "",
+        "page": "",
+        "url": "https://doi.org/10.1109/JOE.2020.3033036",
+        "year": "(Early Access)"
+    },
+
+    {
+        "author": [
+            "筑紫彰太",
+            "山内統広",
+            "田村雄介",
+            "山川博司",
+            "永谷圭司",
+            "藤井浩光",
+            "千葉拓史",
+            "山本新吾",
+            "茶山和博",
+            "山下淳",
+            "淺間一"
+        ],
+        "title": "スペクトル画像を用いた土質パラメータの推定に基づく建設機械の走破性判定",
+        "journal": "精密工学会誌",
+        "vol": "Vol.86",
+        "no": "No.12",
+        "page": "pp.1057-1063",
+        "url": "https://doi.org/10.2493/jjspe.86.1057",
+        "year": "2020"
+    },
+   
+    {
+        "author": [
+            "Yusheng Wang",
+            "Yonghoon Ji",
+            "Dingyu Liu",
+            "Yusuke Tamura",
+            "Hiroshi Tsuchiya",
+            "Atsushi Yamashita",
+            "Hajime Asama"
+        ],
+        "title": "ACMarker: Acoustic Camera-Based Fiducial Marker System in Underwater Environment",
+        "journal": "IEEE Robotics and Automation Letters",
+        "vol": "Vol.5",
+        "no": "No.4",
+        "page": "pp.5018-5025",
+        "url": "https://doi.org/10.1109/LRA.2020.3005375",
+        "year": "2020"
+    },
+
+    {
+        "author": [
+           "Hanwool Woo",
+           "Mizuki Sugimoto",
+           "Hirokazu Madokoro",
+           "Kazuhito Sato",
+           "Yusuke Tamura",
+           "Atsushi Yamashita",
+           "Hajime Asama"
+        ],
+        "title": "Goal Estimation of Mandatory Lane Changes Based on Interaction Between Drivers",
+        "journal": "Applied Sciences",
+        "vol": "Vol.10",
+        "no": "No.9",
+        "page": "3289, pp.1-12",
+        "url": "https://doi.org/10.3390/app10093289",
+        "year": "2020"
+    },
+
+    {
+        "author": [
+            "Ren Komatsu",
+            "Hiromitsu Fujii",
+            "Yusuke Tamura",
+            "Atsushi Yamashita",
+            "Hajime Asama"
+        ],
+        "title": "Free Viewpoint Image Generation System Using Fisheye Cameras and a Laser Rangefinder for Indoor Robot Teleoperation",
+        "journal": "ROBOMECH Journal",
+        "vol": "Vol.7",
+        "no": "15",
+        "page": "pp.1-10",
+        "url": "https://doi.org/10.1186/s40648-020-00163-4",
+        "year": "2020"
+    },
+
+    {
+        "author": [
+            "Jiaxu Wu",
+            "Yusuke Tamura",
+            "Yusheng Wang",
+            "Hanwool Woo",
+            "Alessandro Moro",
+            "Atsushi Yamashita",
+            "Hajime Asama"
+        ],
+        "title": "Smartphone Zombie Detection from LiDAR Point Cloud for Mobile Robot Safety",
+        "journal": "IEEE Robotics and Automation Letters",
+        "vol": "Vol.5",
+        "no": "No.2",
+        "page": "pp.2256-2263",
+        "url": "https://doi.org/10.1109/LRA.2020.2970570",
+        "year": "2020"
+    },
+
+    {
+        "author": [
+            "禹ハンウル",
+            "間所洋和",
+            "佐藤和人",
+            "田村雄介",
+            "山下淳",
+            "淺間一"
+        ],
+        "title": "先行車追従モデルに基づいた追従運転者の操作特性の推定",
+        "journal": "自動車技術会論文集",
+        "vol": "Vol.51",
+        "no": "No.2",
+        "page": "pp.304-309",
+        "url": "https://doi.org/10.11351/jsaeronbun.51.304",
+        "year": "2020"
+    },
+
+    {
+        "author": [
+            "Ningjia Yang",
+            "Qi An",
+            "Hiroki Kogami",
+            "Hiroshi Yamakawa",
+            "Yusuke Tamura",
+            "Kouji Takahashi",
+            "Makoto Kinomoto",
+            "Hiroshi Yamasaki",
+            "Matti Itkonen",
+            "Fady Shibata-Alnajjar",
+            "Shingo Shimoda",
+            "Noriaki Hattori",
+            "Takanori Fujii",
+            "Hironori Otomune",
+            "Ichiro Miyai",
+            "Atsushi Yamashita",
+            "Hajime Asama"
+        ],
+        "title": "Temporal Muscle Synergy Features Estimate Effects of Short-Term Rehabilitation in Sit-to-Stand of Post-Stroke Patients",
+        "journal": "IEEE Robotics and Automation Letters",
+        "vol": "Vol.5",
+        "no": "No.2",
+        "page": "pp.1796-1802",
+        "url": "https://doi.org/10.1109/LRA.2020.2969942",
+        "year": "2020"
+    },
+
+    {
+        "author": [
+            "筑紫彰太",
+            "森山湧志",
+            "藤井浩光",
+            "田村雄介",
+            "山川博司",
+            "永谷圭司",
+            "坂井郁也",
+            "千葉拓史",
+            "山本新吾",
+            "茶山和博",
+            "山下淳",
+            "淺間一"
+        ],
+        "title": "遠隔作業オペレータの要求仕様に基づいたバックホウ盛土作業のための映像自動提示",
+        "journal": "精密工学会誌",
+        "vol": "Vol.86",
+        "no": "No.2",
+        "page": "pp.164-170",
+        "url": "https://doi.org/10.2493/jjspe.86.164",
+        "year": "2020"
+    },
+
+    {
+        "author": [
+            "Feiyun Cong",
+            "Yusuke Tamura",
+            "Kenji Shimazoe",
+            "Hiroyuki Takahashi",
+            "Jun Ota",
+            "Shuiguang Tong"
+        ],
+        "title": "Radioactive Source Recognition with Moving Compton Camera Imaging Robot Using Geant4",
+        "journal": "Nuclear Instruments and Methods in Physics Research Section A: Accelerators, Spectrometers, Detectors and Associated Equipment",
+        "vol": "Vol.953",
+        "no": "163108",
+        "page": "pp.1-12",
+        "url": "https://doi.org/10.1016/j.nima.2019.163108",
+        "year": "2020"
+    }
+
+]
