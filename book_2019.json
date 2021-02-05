@@ -1,0 +1,27 @@
+[
+    {
+        "author": [
+            "Yuki Doi",
+            "Yonghoon Ji",
+            "Yusuke Tamura",
+            "Yuki Ikeda",
+            "Atsushi Umemura",
+            "Yoshiharu Kaneshima",
+            "Hiroki Murakami",
+            "Atsushi Yamashita",
+            "Hajime Asama"
+        ],
+        "title": "Robust Path Planning against Pose Errors for Mobile Robots in Rough Terrain",
+        "book": "Intelligent Autonomous Systems 15",
+        "editor": [
+            "M. Strand",
+            "R. Dillman",
+            "E. Menegatti",
+            "S. Ghidoni"
+        ],
+        "publisher": "Springer",
+        "page": "pp.27-39",
+        "url": "https://doi.org/10.1007/i78-3-030-01370-7_3",
+        "year": "2019"
+    }
+]
