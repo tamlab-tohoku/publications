@@ -1,0 +1,100 @@
+[
+    {
+        "author": [
+            "Yusuke Tamura",
+            "Yoshitaka Terada",
+            "Atsushi Yamashita",
+            "Hajime Asama"
+        ],
+        "title": "Modelling Behaviour Patterns of Pedesrians for Mobile Robot Trajectory Generation",
+        "journal": "International Journal of Advanced Robotic Systems",
+        "vol": "Vol.10",
+        "no": "310",
+        "page": "pp.1-11",
+        "url": "https://doi.org/10.5772/56668",
+        "year": "2013"
+    },
+
+    {
+        "author": [
+            "Guanghui Li",
+            "Yusuke Tamura",
+            "Atsushi Yamashita",
+            "Hajime Asama"
+        ],
+        "title": "Effective Improved Artificial Potential Field Based Regression Search Method for Autonomous Mobile Robot Path Planning",
+        "journal": "International Journal of Mechatronics and Automation",
+        "vol": "Vol.3",
+        "no": "No.3",
+        "page": "pp.141-170",
+        "url": "https://doi.org/10.1504/IJMA.2013.055612",
+        "year": "2013"
+    },
+
+    {
+        "author": [
+            "Yusuke Tamura",
+            "Mami Egawa",
+            "Shiro Yano",
+            "Takaki Maeda",
+            "Motoichiro Kato",
+            "Hajime Asama"
+        ],
+        "title": "Activeness Improves Cognitive Performance in Human-Machine Interaction",
+        "journal": "Journal of Advanced Computational Intelligence and Intelligent Informatics",
+        "vol": "Vol.17",
+        "no": "No.3",
+        "page": "pp.425-432",
+        "url": "https://doi.org/10.20965/jaciii.2013.p0425",
+        "year": "2013"
+    },
+
+    {
+        "author": [
+            "熊原渉",
+            "増山岳人",
+            "田村雄介",
+            "山下淳",
+            "淺間一"
+        ],
+        "title": "局所経路情報と歩行者流情報を用いた移動ロボットナビゲーション手法",
+        "journal": "精密工学会誌",
+        "vol": "Vol.79",
+        "no": "No.4",
+        "page": "pp.349-355",
+        "url": "https://doi.org/10.2493/jjspe.79.349",
+        "year": "2013"
+    },
+
+    {
+        "author": [
+            "田村雄介",
+            "濱崎峻資",
+            "山下淳",
+            "淺間一"
+        ],
+        "title": "環境に応じた人間の移動予測に基づく移動ロボットの人物回避",
+        "journal": "日本機械学会論文集C編",
+        "vol": "Vol.79",
+        "no": "No.799",
+        "page": "pp.617-628",
+        "url": "https://doi.org/10.1299/kikaic.79.617",
+        "year": "2013"
+    },
+
+    {
+        "author": [
+            "Inyong Ha",
+            "Yusuke Tamura",
+            "Hajime Asama"
+        ],
+        "title": "Development of Open Platform Humanoid Robot DARwIn-OP",
+        "journal": "Advanced Robotics",
+        "vol": "Vol.27",
+        "no": "No.3",
+        "page": "pp.223-232",
+        "url": "https://doi.org/10.1080/01691864.2012.754079",
+        "year": "2013"
+    }
+
+]

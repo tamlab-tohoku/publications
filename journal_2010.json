@@ -1,0 +1,35 @@
+[
+    {
+        "author": [
+            "Yusuke Tamura",
+            "Masao Sugi",
+            "Tamio Arai",
+            "Jun Ota"
+        ],
+        "title": "Attentive Deskwork Support System",
+        "journal": "Journal of Advanced Computational Intelligence and Intelligent Informatics",
+        "vol": "Vol.14",
+        "no": "No.7",
+        "page": "pp.758-769",
+        "url": "https://doi.org/10.20965/jaciii.2010.p0758",
+        "year": "2010"
+    },
+
+    {
+        "author": [
+            "Masao Sugi",
+            "Yuto Nakanishi",
+            "Masataka Nishino",
+            "Yusuke Tamura",
+            "Tamio Arai",
+            "Jun Ota"
+        ],
+        "title": "Development of Deskwork Support System Using Pointing Gesture Interface",
+        "journal": "Journal of Robotics and Mechatronics",
+        "vol": "Vol.22",
+        "no": "No.4",
+        "page": "pp.430-438",
+        "url": "https://doi.org/10.20965/jrm.2010.p0430",
+        "year": "2010"
+    }
+]
