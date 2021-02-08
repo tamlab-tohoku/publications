@@ -20,5 +20,5 @@ $.when(
   }
 })
 .fail(function(){
-  $("#invited_list").append("<li>Cannot get data.<\/li>")
+  $("#invited_list").append("<li>Cannot get data.<\/li>");
 });

@@ -45,6 +45,6 @@ $.when(
     }
 })
 .fail(function(){
-    $("#journal_list").append("<li>Cannot get data.<\/li>")
+    $("#journal_list").append("<li>Cannot get data.<\/li>");
 });
   
