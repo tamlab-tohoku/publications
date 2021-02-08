@@ -49,9 +49,9 @@ $.when(
   const cdata = [...data2021[0]];
   for(var i in cdata){
         var authors = cdata[i].author.join(', ');
-         $("#intconf_list").append("<li>[" + (cdata.length-i) +"] " + authors + ": <strong>" + cdata[i].title +"<\/strong>, <i>" + cdata[i].procs + "<\/i>, " + cdata[i].page + ", " + cdata[i].place + ", " + cdata[i].month + ", " + cdata[i].year + ". <br>" + cdata[i].url + "<\/li>");
-     }
+         $("#intconf_list").append("<li>[" + (cdata.length-i) +"] " + authors + ": <strong>" + cdata[i].title +"<\/strong>, <i>" + cdata[i].procs + "<\/i>, " + cdata[i].page + ", " + cdata[i].place + ", " + cdata[i].month + ", " + cdata[i].year + ". <br><a href=\"" + cdata[i].url + "<\/a><\/li>");
   }
+  
 })
 .fail(function(){
   $("#intconf_list").append("<li>Cannot get data.<\/li>");
