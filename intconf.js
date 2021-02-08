@@ -2,6 +2,7 @@ rep_url = "https://raw.githubusercontent.com/tamlab-tohoku/publications/main/";
 
 url2021 = rep_url + "intconf_2021.json";
 url2020 = rep_url + "intconf_2020.json";
+/*
 url2019 = rep_url + "intconf_2019.json";
 url2018 = rep_url + "intconf_2018.json";
 url2017 = rep_url + "intconf_2017.json";
@@ -19,7 +20,7 @@ url2006 = rep_url + "intconf_2006.json";
 url2005 = rep_url + "intconf_2005.json";
 url2004 = rep_url + "intconf_2004.json";
 url2003 = rep_url + "intconf_2003.json";
-
+*/
 
 $.when(
     $.getJSON(url2021),
@@ -48,9 +49,18 @@ $.when(
   const cdata = [...data2021[0], ...data2020[0]];
   for(var i in cdata){
         var authors = cdata[i].author.join(', ');
+<<<<<<< HEAD
          $("#intl_list").append("<li>[" + (cdata.length-i) +"] " + authors + ": <strong>" + cdata[i].title +"<\/strong>, <i>" + cdata[i].procs + "<\/i>, " + cdata[i].page + ", " + cdata[i].place + ", " + cdata[i].month + ", " + cdata[i].year + ". <br>" + cdata[i].url + "<\/li>");
      }
 })
 .fail(function(){
   $("#intl_list").append("<li>Cannot get data.<\/li>")
+=======
+         $("#intl_list").append("<li>[" + (cdata.length-i) +"] " + authors + ": <strong>" + cdata[i].title +"<\/strong>, <i>" + cdata[i].procs + "<\/i>, " + cdata[i].page + ", " + cdata[i].place + ", " + cdata[i].month + ", " + cdata[i].year + ". <br><a href=\"" + cdata[i].url + "<\/a><\/li>");
+  }
+  
+})
+.fail(function(){
+  $("#intl_list").append("<li>Cannot get data.<\/li>");
+>>>>>>> d33642b5fcba04a04e9cd2fd72fe643454cf2aad
 });
