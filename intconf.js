@@ -55,5 +55,5 @@ $.when(
   }
 })
 .fail(function(){
-  $("#intconf_list").append("<li>Cannot get data.<\/li>")
+  $("#intconf_list").append("<li>Cannot get data.<\/li>");
 });
