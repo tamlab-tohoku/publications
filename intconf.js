@@ -22,7 +22,6 @@ url2004 = rep_url + "intconf_2004.json";
 url2003 = rep_url + "intconf_2003.json";
 */
 
-
 $.when(
     $.getJSON(url2021)/*,
     $.getJSON(url2020),
