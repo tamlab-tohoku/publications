@@ -1,15 +1,56 @@
 [
     {
         "author": [
-
+            "Inyong Ha",
+            "Yusuke Tamura",
+            "Soichiro Morishita",
+            "Hajime Asama",
+            "Itsuki Noda",
+            "Yasushi Hada",
+            "Hiroyuki Okamoto"
         ],
-        "title": ,
-        "procs": ,
-        "page": ,
-        "url": "https://doi.org/",
-        "year": ,
-        "month": ,
-        "place": ,
-        "award": 
+        "title": "Design of Location Management Module and Environment Server for Constructing of Intelligent Environment Space",
+        "procs": "Proceedings of the 5th International Conference on Ubiquitous Robots and Ambient Intelligence",
+        "page": "pp.485-488",
+        "url": "",
+        "year": "2008",
+        "month": "November",
+        "place": "Seoul, Korea",
+        "award": ""
+    },
+
+    {
+        "author": [
+            "Yusuke Tamura",
+            "Masao Sugi",
+            "Jun Ota",
+            "Tamio Arai"
+        ],
+        "title": "Attentive Object Feeding for Supporting Deskwork",
+        "procs": "Proceedings of the 2008 IEEE/RSJ International Conference on Intelligent Robots and Systems",
+        "page": "pp.2840-2845",
+        "url": "https://doi.org/10.1109/IROS.2008.4650868",
+        "year": "2008",
+        "month": "September",
+        "place": "Nice, France",
+        "award": ""
+    },
+
+    {
+        "author": [
+            "Masao Sugi",
+            "Ippei Matsumura",
+            "Yusuke Tamura",
+            "Jun Ota",
+            "Tamio Arai"
+        ],
+        "title": "Quantitative Evaluation of Physical Assembly Support in Human Supporting Production System \"Attentive Workbench\"",
+        "procs": "Proceedings of the 2008 IEEE International Conference on Robotics and Automation",
+        "page": "pp.3624-3629",
+        "url": "https://doi.org/10.1109/ROBOT.2008.4543766",
+        "year": "2008",
+        "month": "May",
+        "place": "Pasadena, USA",
+        "award": ""
     }
 ]

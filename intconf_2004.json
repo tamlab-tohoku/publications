@@ -1,15 +1,41 @@
 [
     {
         "author": [
-
+            "Yusuke Tamura",
+            "Masao Sugi",
+            "Jun Ota",
+            "Tamio Arai"
         ],
-        "title": ,
-        "procs": ,
-        "page": ,
-        "url": "https://doi.org/",
-        "year": ,
-        "month": ,
-        "place": ,
-        "award": 
+        "title": "Deskwork Support System Based on the Estimation of Human Intentions",
+        "procs": "Proceedings of the 13th IEEE International Workshop on Robot and Human Interactive Communication",
+        "page": "pp.413-418",
+        "url": "https://doi.org/10.1109/ROMAN.2004.1374796",
+        "year": "2004",
+        "month": "September",
+        "place": "Kurashiki, Japan",
+        "award": "Best Paper Award"
+    },
+
+    {
+        "author": [
+            "Masao Sugi",
+            "Yusuke Tamura",
+            "Jun Ota",
+            "Tamio Arai",
+            "Kiyoshi Kotani",
+            "Hiromasa Suzuki",
+            "Kiyoshi Takamasu",
+            "Yoichi Sato"
+        ],
+        "title": "Distributed Control of Multiple Self-Moving Trays for an Intelligent Cell Production System",
+        "procs": "Proceedings of SICE Annual Conference 2004",
+        "page": "pp.2506-2511",
+        "url": "https://ieeexplore.ieee.org/document/1491871",
+        "year": "2004",
+        "month": "August",
+        "place": "Sapporo, Japan",
+        "award": ""
     }
+
+
 ]

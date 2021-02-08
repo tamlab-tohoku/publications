@@ -1,15 +1,34 @@
 [
     {
         "author": [
-
+            "Yusuke Tamura",
+            "Yu Murai",
+            "Hiroki Murakami",
+            "Hajime Asama"
         ],
-        "title": ,
-        "procs": ,
-        "page": ,
-        "url": "https://doi.org/",
-        "year": ,
-        "month": ,
-        "place": ,
-        "award": 
+        "title": "Identification of Types of Obstacles and Obstacle Map Building for Mobile Robots",
+        "procs": "Proceedings of the 6th International Conference on Ubiquitous Robots and Ambient Intelligence",
+        "page": "pp.340-344",
+        "url": "",
+        "year": "2009",
+        "month": "October",
+        "place": "Gwangju, Korea",
+        "award": "Outstanding Paper Award"
+    },
+
+    {
+        "author": [
+            "Jun Ishii",
+            "Yusuke Tamura",
+            "Hajime Asama"
+        ],
+        "title": "Filter Design by Using Map Information on Wireless-LAN Location Awareness System",
+        "procs": "Proceedings of the 2009 IEEE International Conference on Mechatronics and Automation",
+        "page": "pp.2967-2972",
+        "url": "https://doi.org/10.1109/ICMA.2009.5246005",
+        "year": "2009",
+        "month": "August",
+        "place": "Changchun, China",
+        "award": ""
     }
 ]

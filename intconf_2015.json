@@ -1,15 +1,134 @@
 [
     {
         "author": [
-
+            "Hanwool Woo",
+            "Yonghoon Ji",
+            "Hitoshi Kono",
+            "Yusuke Tamura",
+            "Atsushi Yamashita",
+            "Hajime Asama"
         ],
-        "title": ,
-        "procs": ,
-        "page": ,
-        "url": "https://doi.org/",
-        "year": ,
-        "month": ,
-        "place": ,
-        "award": 
+        "title": "Detection Method of Lane Change Intentions in Other Drivers Using Hidden Markov Models",
+        "procs": "Proceedings of the 6th International Conference on Advanced Mechatronics",
+        "page": "pp.253-254",
+        "url": "",
+        "year": "2015",
+        "month": "December",
+        "place": "Tokyo, Japan",
+        "award": ""
+    },
+
+    {
+        "author": [
+            "Yusuke Tanaka",
+            "Yonghoon Ji",
+            "Yusuke Tamura",
+            "Atsushi Yamashita",
+            "Hajime Asama"
+        ],
+        "title": "Course Detection from Integrated 3D Environment Measurement by Multiple Mobile Robots",
+        "procs": "Proceedings of the 6th International Conference on Advanced Mechatronics",
+        "page": "pp.237-238",
+        "url": "",
+        "year": "2015",
+        "month": "December",
+        "place": "Tokyo, Japan",
+        "award": ""
+    },
+
+    {
+        "author": [
+            "Hitoshi Kono",
+            "Yusuke Tamura",
+            "Atsushi Yamashita",
+            "Hajime Asama"
+        ],
+        "title": "Distributed Cooperative Fault Diagnosis Method for Internal Electric Component of Robot System",
+        "procs": "Proceedings of the 6th International Conference on Advanced Mechatronics",
+        "page": "pp.235-236",
+        "url": "",
+        "year": "2015",
+        "month": "December",
+        "place": "Tokyo, Japan",
+        "award": ""
+    },
+
+    {
+        "author": [
+            "Ren Komatsu",
+            "Hiromitsu Fujii",
+            "Hitoshi Kono",
+            "Yusuke Tamura",
+            "Atsushi Yamashita",
+            "Hajime Asama"
+        ],
+        "title": "Bird's-eye View Image Generation with Camera Malfunction in Irradiation Environment",
+        "procs": "Proceedings of the 6th International Conference on Advanced Mechatronics",
+        "page": "pp.177-178",
+        "url": "",
+        "year": "2015",
+        "month": "December",
+        "place": "Tokyo, Japan",
+        "award": ""
+    },
+
+    {
+        "author": [
+            "Shunsuke Hamasaki",
+            "Qi An",
+            "Wen Wen",
+            "Yusuke Tamura",
+            "Hiroshi Yamakawa",
+            "Atsushi Yamashita",
+            "Hajime Asama",
+            "Satoshi Shibuya",
+            "Yukari Ohki"
+        ],
+        "title": "Evaluating Effect of Sense of Ownership and Sense of Agency on Body Representation Change of Human Upper Limb",
+        "procs": "Proceedings of the 2015 International Symposium on Micro-NanoMechatronics and Human Science",
+        "page": "pp.254-257",
+        "url": "https://doi.org/10.1109/MHS.2015.7438328",
+        "year": "2015",
+        "month": "November",
+        "place": "Nagoya, Japan",
+        "award": "Best Poster Award"
+    },
+
+    {
+        "author": [
+            "Daisuke Tomoi",
+            "Wen Wen",
+            "Hiroshi Yamakawa",
+            "Shunsuke Hamasaki",
+            "Kaoru Takakusaki",
+            "Qi An",
+            "Yusuke Tamura",
+            "Atsushi Yamashita",
+            "Hajime Asama"
+        ],
+        "title": "Estimation of Stress During Car Race with Factor Analysis",
+        "procs": "Proceedings of the 2015 International Symposium on Micro-NanoMechatronics and Human Science",
+        "page": "pp.213-216",
+        "url": "https://doi.org/10.1109/MHS.2015.7438258",
+        "year": "2015",
+        "month": "November",
+        "place": "Nagoya, Japan",
+        "award": ""
+    },
+
+    {
+        "author": [
+            "Yusuke Tamura",
+            "Kojiro Matsushita",
+            "Hisashi Osumi"
+        ],
+        "title": "Estimation of Handgrip Position Based on Force Measurement During Steady Cycling",
+        "procs": "Journal of Science and Cycling, Vol.4, No.2 (World Congress of Cycling Science 2015)",
+        "page": "pp.71-72",
+        "url": "https://jsc-journal.com/index.php/JSC/article/view/229",
+        "year": "2015",
+        "month": "July",
+        "place": "Utrecht, the Netherlands",
+        "award": ""
     }
 ]

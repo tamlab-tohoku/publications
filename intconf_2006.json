@@ -1,15 +1,75 @@
 [
     {
         "author": [
-
+            "Masao Sugi",
+            "Yusuke Tamura",
+            "Jun Ota",
+            "Tamio Arai",
+            "Kiyoshi Takamasu",
+            "Hiromasa Suzuki"
         ],
-        "title": ,
-        "procs": ,
-        "page": ,
-        "url": "https://doi.org/",
-        "year": ,
-        "month": ,
-        "place": ,
-        "award": 
+        "title": "Implementation of Human Supporting Production System \"Attentive Workbench\"",
+        "procs": "Proceedings of the SICE-ICASE International Joint Conference 2006",
+        "page": "pp.1270-1273",
+        "url": "https://doi.org/10.1109/SICE.2006.315436",
+        "year": "2006",
+        "month": "October",
+        "place": "Busan, Korea",
+        "award": ""
+    },
+
+    {
+        "author": [
+            "Masao Sugi",
+            "Makoto Nikaido",
+            "Yusuke Tamura",
+            "Jun Ota",
+            "Tamio Arai"
+        ],
+        "title": "Development of Gesture-Based Interface for Deskwork Support System",
+        "procs": "Proceedings of the 2006 IEEE/RSJ International Conference on Intelligent Robots and Systems",
+        "page": "pp.5171-5176",
+        "url": "https://doi.org/10.1109/IROS.2006.281653",
+        "year": "2006",
+        "month": "October",
+        "place": "Beijing, China",
+        "award": ""
+    },
+
+
+    {
+        "author": [
+            "Yusuke Tamura",
+            "Masao Sugi",
+            "Jun Ota",
+            "Tamio Arai"
+        ],
+        "title": "Handing-Over Between Human and Self-Moving Tray",
+        "procs": "Proceedings of the IMEKO XVIII World Congress",
+        "page": "TC18-08",
+        "url": "https://www.imeko.org/publications/wc-2006/PWC-2006-TC18-008u.pdf",
+        "year": "2006",
+        "month": "September",
+        "place": "Rio de Janeiro, Brazil",
+        "award": ""
+    },
+
+
+    {
+        "author": [
+            "Yusuke Tamura",
+            "Masao Sugi",
+            "Jun Ota",
+            "Tamio Arai"
+        ],
+        "title": "Prediction of Target Object Based on Human Hand Movement for Handing-Over Between Human and Self-Moving Trays",
+        "procs": "Proceedings of the 15th IEEE International Symposium on Robot and Human Interactive Communication",
+        "page": "pp.189-194",
+        "url": "https://doi.org/10.1109/ROMAN.2006.314416",
+        "year": "2006",
+        "month": "September",
+        "place": "Hatfield, UK",
+        "award": ""
     }
+
 ]

@@ -1,15 +1,101 @@
 [
     {
         "author": [
-
+            "Guanghui Li",
+            "Yusuke Tamura",
+            "Hajime Asama"
         ],
-        "title": ,
-        "procs": ,
-        "page": ,
-        "url": "https://doi.org/",
-        "year": ,
-        "month": ,
-        "place": ,
-        "award": 
+        "title": "Influence Analysis of Setting Thresholds on Dynamical Sequential Task Allocation and Reallocation Methodology",
+        "procs": "Proceedings of the 2011 IEEE/SICE International Symposium on System Integration",
+        "page": "pp.1165-1170",
+        "url": "https://doi.org/10.1109/SII.2011.6147614",
+        "year": "2011",
+        "month": "December",
+        "place": "Kyoto, Japan",
+        "award": ""
+    },
+
+    {
+        "author": [
+            "Shunsuke Hamasaki",
+            "Yusuke Tamura",
+            "Atsushi Yamashita",
+            "Hajime Asama"
+        ],
+        "title": "Prediction of Human's Movement for Collision Avoidance of Mobile Robot",
+        "procs": "Proceedings of the 2011 IEEE International Conference on Robotics and Biomimetics",
+        "page": "pp.1633-1638",
+        "url": "https://doi.org/10.1109/ROBIO.2011.6181523",
+        "year": "2011",
+        "month": "December",
+        "place": "Phuket, Thailand",
+        "award": ""
+    },
+
+    {
+        "author": [
+            "Guanghui Li",
+            "Yusuke Tamura",
+            "Hajime Asama"
+        ],
+        "title": "A Comparative Study of Dynamical Sequential and Global Optimal Task Reallocation Methodology for Distributed Multi-Robot System",
+        "procs": "Proceedings of the 8th International Conference on Ubiquitous Robots and Systems",
+        "page": "pp.307-312",
+        "url": "https://doi.org/10.1109/URAI.2011.6145982",
+        "year": "2011",
+        "month": "November",
+        "place": "Incheon, Korea",
+        "award": ""
+    },
+
+    {
+        "author": [
+            "Inyong Ha",
+            "Yusuke Tamura",
+            "Hajime Asama"
+        ],
+        "title": "Gait Pattern Generation and Stabilization for Humanoid Robot Based on Coupled Oscillators",
+        "procs": "Proceedings of the 2011 IEEE/RSJ International Conference on Intelligent Robots and Systems",
+        "page": "pp.3207-3212",
+        "url": "https://doi.org/10.1109/IROS.2011.6095061",
+        "year": "2011",
+        "month": "September",
+        "place": "San Francisco, USA",
+        "award": ""
+    },
+
+    {
+        "author": [
+            "Inyong Ha",
+            "Yusuke Tamura",
+            "Hajime Asama",
+            "Jeakweon Han",
+            "Dennis W. Hong"
+        ],
+        "title": "Development of Open Humanoid Platform DARwIn-OP",
+        "procs": "Proceedings of SICE Annual Conference 2011",
+        "page": "pp.2178-2181",
+        "url": "https://ieeexplore.ieee.org/document/6060333",
+        "year": "2011",
+        "month": "September",
+        "place": "Tokyo, Japan",
+        "award": ""
+    },
+
+    {
+        "author": [
+            "Guanghui Li",
+            "Yusuke Tamura",
+            "Hajime Asama"
+        ],
+        "title": "Dynamical Task Allocation and Reallocation Based on Body Expansion Behavior for Multi-Robot Coordination System",
+        "procs": "Proceedings of the 2011 International Conference on Mechatronics and Automation",
+        "page": "pp.537-542",
+        "url": "https://doi.org/10.1109/ICMA.2011.5985718",
+        "year": "2011",
+        "month": "August",
+        "place": "Beijing, China",
+        "award": ""
     }
+
 ]

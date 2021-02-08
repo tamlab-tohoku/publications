@@ -1,15 +1,203 @@
 [
     {
         "author": [
-
+            "Doyeon Kim",
+            "Hanwool Woo",
+            "Yonghoon Ji",
+            "Yusuke Tamura",
+            "Atsushi Yamashita",
+            "Hajime Asama"
         ],
-        "title": ,
-        "procs": ,
-        "page": ,
-        "url": "https://doi.org/",
-        "year": ,
-        "month": ,
-        "place": ,
-        "award": 
+        "title": "3D Radiation Imaging Using Mobile Robot Equipped with Radiation Detector",
+        "procs": "Proceedings of the 2017 IEEE/SICE International Symposium on System Integration",
+        "page": "pp.444-449",
+        "url": "https://doi.org/10.1109/SII.2017.8279253",
+        "year": "2017",
+        "month": "December",
+        "place": "Taipei, Taiwan",
+        "award": ""
+    },
+
+    {
+        "author": [
+            "Yasuyuki Awashima",
+            "Hiromitsu Fujii",
+            "Yusuke Tamura",
+            "Keiji Nagatani",
+            "Atsushi Yamashita",
+            "Hajime Asama"
+        ],
+        "title": "Safeness Visualization of Terrain for Teleoperation of Mobile Robot Using 3D Environment Map and Dynamic Simulator",
+        "procs": "Proceedings of the 2017 IEEE/SICE International Symposium on System Integration",
+        "page": "pp.194-200",
+        "url": "https://doi.org/10.1109/SII.2017.8279211",
+        "year": "2017",
+        "month": "December",
+        "place": "Taipei, Taiwan",
+        "award": ""
+    },
+
+    {
+        "author": [
+            "Sonmin Yun",
+            "Wen Wen",
+            "Qi An",
+            "Shunsuke Hamasaki",
+            "Hiroshi Yamakawa",
+            "Yusuke Tamura",
+            "Atsushi Yamashita",
+            "Hajime Asama"
+        ],
+        "title": "Investigating the Relationship Between Driver's Sense of Agency and EEG: Mu-Rhythm is More Suppressed in Higher SoA Case",
+        "procs": "Proceedings of the 2017 International Symposium on Micro-NanoMechatronics and Human Science",
+        "page": "pp.272-276",
+        "url": "https://doi.org/10.1109/MHS.2017.8305264",
+        "year": "2017",
+        "month": "December",
+        "place": "Nagoya, Japan",
+        "award": ""
+    },
+
+    {
+        "author": [
+            "Ngoc Trung Mai",
+            "Hanwool Woo",
+            "Yonghoon Ji",
+            "Yusuke Tamura",
+            "Atsushi Yamashita",
+            "Hajime Asama"
+        ],
+        "title": "3D Reconstruction of Line Features Using Multi-View Acoustic Images in Underwater Environment",
+        "procs": "Proceedings of the 2017 IEEE International Conference on Multisensor Fusion and Integration for Intelligent Systems",
+        "page": "pp.312-317",
+        "url": "https://doi.org/10.1109/MFI.2017.8170447",
+        "year": "2017",
+        "month": "November",
+        "place": "Daegu, Korea",
+        "award": ""
+    },
+
+    {
+        "author": [
+            "Hanwool Woo",
+            "Yonghoon Ji",
+            "Yusuke Tamura",
+            "Yasuhide Kuroda",
+            "Takashi Sugano",
+            "Yasunori Yamamoto",
+            "Atsushi Yamashita",
+            "Hajime Asama"
+        ],
+        "title": "Driver Classification in Vehicle Following Behavior by Using Dynamic Potential Field Method",
+        "procs": "Proceedings of the IEEE 20th International Conference on Intelligent Transportation Systems",
+        "page": "pp.1101-1106",
+        "url": "https://doi.org/10.1109/ITSC.2017.8317774",
+        "year": "2017",
+        "month": "October",
+        "place": "Yokohama, Japan",
+        "award": ""
+    },
+
+    {
+        "author": [
+            "Ningjia Yang",
+            "Qi An",
+            "Hiroshi Yamakawa",
+            "Yusuke Tamura",
+            "Atsushi Yamashita",
+            "Matti Itkonen",
+            "Fady Alnajjar",
+            "Shingo Shimoda",
+            "Hajime Asama",
+            "Noriaki Hattori",
+            "Ichiro Miyai"
+        ],
+        "title": "Clarification of Muscle Synergy Structure During Standing-up Motion of Healthy Young, Elderly and Post-Stroke Patients",
+        "procs": "Proceedings of the 15th IEEE International Conference on Rehabilitation Robotics",
+        "page": "pp.19-24",
+        "url": "https://doi.org/10.1109/ICORR.2017.8009215",
+        "year": "2017",
+        "month": "July",
+        "place": "London, UK",
+        "award": ""
+    },
+
+    {
+        "author": [
+            "Takao Sugimoto",
+            "Hiroshi Yamakawa",
+            "Qi An",
+            "Wen Wen",
+            "Yusuke Tamura",
+            "Koichi Otomi",
+            "Takayuki Kosaka",
+            "Hiromasa Suzuki",
+            "Atsushi Yamashita",
+            "Hajime Asama"
+        ],
+        "title": "Estimation of Tension and Concentration Scenes during Crane Operation Using Physiological Indices for Skill Improvement Support",
+        "procs": "Proceedings of the 5th International Conference on Serviceology",
+        "page": "pp.153-160",
+        "url": "",
+        "year": "2017",
+        "month": "July",
+        "place": "Vienna, Austria",
+        "award": ""
+    },
+
+    {
+        "author": [
+            "Tasuku Ito",
+            "Hitoshi Kono",
+            "Yusuke Tamura",
+            "Atsushi Yamashita",
+            "Hajime Asama"
+        ],
+        "title": "Recovery Motion Learning for Arm Mounted Mobile Crawler Robot in Driver System's Failure",
+        "procs": "IFAC PapersOnLine, Vol.50, No.1 (The 20th World Congress of the International Federation of Automatic Control)",
+        "page": "pp.2329-2334",
+        "url": "https://doi.org/10.1016/j.ifacol.2017.08.475",
+        "year": "2017",
+        "month": "July",
+        "place": "Toulouse, France",
+        "award": ""
+    },
+
+    {
+        "author": [
+            "Ngoc Trung Mai",
+            "Hanwool Woo",
+            "Yonghoon Ji",
+            "Yusuke Tamura",
+            "Atsushi Yamashita",
+            "Hajime Asama"
+        ],
+        "title": "3-D Reconstruction of Underwater Object based on Extended Kalman Filter by Using Acoustic Camera Images",
+        "procs": "IFAC PapersOnLine, Vol.50, No.1 (The 20th World Congress of the International Federation of Automatic Control)",
+        "page": "pp.1043-1049",
+        "url": "https://doi.org/10.1016/j.ifacol.2017.08.215",
+        "year": "2017",
+        "month": "July",
+        "place": "Toulouse, France",
+        "award": ""
+    },
+
+    {
+        "author": [
+            "Yasuyuki Awashima",
+            "Ren Komatsu",
+            "Hiromitsu Fujii",
+            "Yusuke Tamura",
+            "Atsushi Yamashita",
+            "Hajime Asama"
+        ],
+        "title": "Visualization of Obstacles on Bird's-eye View Using Depth Sensor for Remote Controlled Robot",
+        "procs": "Proceedings of the International Workshop on Advanced Image Technology 2017",
+        "page": "",
+        "url": "",
+        "year": "2017",
+        "month": "January",
+        "place": "Penang, Malaysia",
+        "award": ""
     }
 ]

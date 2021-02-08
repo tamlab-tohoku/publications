@@ -1,15 +1,37 @@
 [
     {
         "author": [
-
+            "Yusuke Tamura",
+            "Masao Sugi",
+            "Jun Ota",
+            "Tamio Arai"
         ],
-        "title": ,
-        "procs": ,
-        "page": ,
-        "url": "https://doi.org/",
-        "year": ,
-        "month": ,
-        "place": ,
-        "award": 
+        "title": "Estimation of User's Intentioun Inherent in the Movements of Hand and Eyes for the Deskwork Support System",
+        "procs": "Proceedings of the 2007 IEEE/RSJ International Conference on Intelligent Robots and Systems",
+        "page": "pp.3709-3714",
+        "url": "https://doi.org/10.1109/IROS.2007.4399618",
+        "year": "2007",
+        "month": "November",
+        "place": "San Diego, USA",
+        "award": ""
+    },
+
+    {
+        "author": [
+            "Masao Sugi",
+            "Ippei Matsumura",
+            "Yusuke Tamura",
+            "Jun Ota",
+            "Tamio Arai"
+        ],
+        "title": "Quantitative Evaluation of Human Supporting Production System \"Attentive Workbench\"",
+        "procs": "Proceedings of the 2007 IEEE Conference on Automation Science and Engineering",
+        "page": "pp.531-535",
+        "url": "https://doi.org/10.1109/COASE.2007.4341845",
+        "year": "2007",
+        "month": "September",
+        "place": "Scottsdale, USA",
+        "award": ""
     }
+
 ]

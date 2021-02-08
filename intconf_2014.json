@@ -1,15 +1,49 @@
 [
     {
         "author": [
-
+            "Ryo Ohta",
+            "Hisashi Osumi",
+            "Yusuke Tamura"
         ],
-        "title": ,
-        "procs": ,
-        "page": ,
-        "url": "https://doi.org/",
-        "year": ,
-        "month": ,
-        "place": ,
-        "award": 
+        "title": "Optimal Grasping Poses of Manipulators for Cooperative Manipulation with Passive Joints",
+        "procs": "Proceedings of the 2014 IEEE/SICE International Symposium on System Integration",
+        "page": "pp.447-452",
+        "url": "https://doi.org/10.1109/SII.2014.7028080",
+        "year": "2014",
+        "month": "December",
+        "place": "Tokyo, Japan",
+        "award": "" 
+    },
+
+    {
+        "author": [
+            "Yusuke Tamura",
+            "Shiro Yano",
+            "Hisashi Osumi"
+        ],
+        "title": "Visual Attention Model for Manipulating Human Attention by a Robot",
+        "procs": "Proceedings of the 2014 IEEE International Conference on Robotics and Automation",
+        "page": "pp.5307-5312",
+        "url": "https://doi.org/10.1109/ICRA.2014.6907639",
+        "year": "2014",
+        "month": "June",
+        "place": "Hong Kong, China",
+        "award": "" 
+    },
+
+    {
+        "author": [
+            "Yusuke Tamura",
+            "Shiro Yano",
+            "Hisashi Osumi"
+        ],
+        "title": "Modeling of Human Attention Based on Analysis of Magic",
+        "procs": "Proceedings of the 2014 ACM/IEEE International Conference on Human-Robot Interaction",
+        "page": "pp.302-303",
+        "url": "https://doi.org/10.1145/2559636.2559819",
+        "year": "2014",
+        "month": "March",
+        "place": "Bielefeld, Germany",
+        "award": "" 
     }
 ]

@@ -1,15 +1,78 @@
 [
     {
         "author": [
-
+           "Yusuke Tamura",
+           "Phuoc Dai Le",
+           "Kentarou Hitomi",
+           "Naiwala P. Chandrasiri",
+           "Takashi Bando",
+           "Atsushi Yamashita",
+           "Hajime Asama" 
         ],
-        "title": ,
-        "procs": ,
-        "page": ,
-        "url": "https://doi.org/",
-        "year": ,
-        "month": ,
-        "place": ,
-        "award": 
+        "title": "Development of Pedestrian Behavior Model Taking Account of Intention",
+        "procs": "Proceedings of the 2012 IEEE/RSJ International Conference on Intelligent Robots and Systems",
+        "page": "pp.382-387",
+        "url": "https://doi.org/10.1109/IROS.2012.6385599",
+        "year": "2012",
+        "month": "October",
+        "place": "Vilamoura, Portugal",
+        "award": ""
+    }, 
+
+    {
+        "author": [
+            "Guanghui Li",
+            "Atsushi Yamashita",
+            "Hajime Asama",
+            "Yusuke Tamura"
+        ],
+        "title": "An Efficient Improved Artificial Potential Field Based Regression Search Method for Robot Path Planning",
+        "procs": "Proceedings of the 2012 IEEE International Conference on Mechatronics and Automation",
+        "page": "pp.1227-1232",
+        "url": "https://doi.org/10.1109/ICMA.2012.6283526",
+        "year": "2012",
+        "month": "August",
+        "place": "Chengdu, China",
+        "award": ""
+    }, 
+
+
+    {
+        "author": [
+            "Guanghui Li",
+            "Yusuke Tamura",
+            "Min Wu",
+            "Atsushi Yamashita",
+            "Hajime Asama"
+        ],
+        "title": "Hybrid Dynamic Mobile Task Allocation and Reallocation Methodology for Distributed Multi-robot Coordination",
+        "procs": "Proceedings of the IEEE/ASME International Conference on Advanced Intelligent Mechatronics",
+        "page": "pp.190-195",
+        "url": "https://doi.org/10.1109/AIM.2012.6265398",
+        "year": "2012",
+        "month": "July",
+        "place": "Kaohsiung, Taiwan",
+        "award": ""
+    }, 
+
+
+    {
+        "author": [
+            "Yusuke Tamura",
+            "Mami Egawa",
+            "Shiro Yano",
+            "Yoshinori Kumita",
+            "Takaki Maeda",
+            "Motoichiro Kato",
+            "Hajime Asama"
+        ],
+        "title": "Relationship between Sense of Agency and Task Performance in Target Search Task",
+        "procs": "Proceedings of the 2012 ICME International Conference on Complex Medical Engineering",
+        "page": "pp.392-396",
+        "url": "https://doi.org/10.1109/ICCME.2012.6275710",
+        "year": "2012",
+        "month": "July",
+        "place": "Kobe, Japan",
+        "award": ""
     }
 ]

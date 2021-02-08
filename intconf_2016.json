@@ -1,15 +1,191 @@
 [
     {
         "author": [
-
+            "Rin Minohara",
+            "Wen Wen",
+            "Shunsuke Hamasaki",
+            "Takaki Maeda",
+            "Qi An",
+            "Yusuke Tamura",
+            "Hiroshi Yamakawa",
+            "Atsushi Yamashita",
+            "Hajime Asama"
         ],
-        "title": ,
-        "procs": ,
-        "page": ,
-        "url": "https://doi.org/",
-        "year": ,
-        "month": ,
-        "place": ,
-        "award": 
+        "title": "How Anticipation for the Sense of Agency Affects Readiness Potential",
+        "procs": "Proceedings of the 2016 International Symposium on Micro-NanoMechatronics and Human Science",
+        "page": "pp.166-168",
+        "url": "https://doi.org/10.1109/MHS.2016.7824228",
+        "year": "2016",
+        "month": "November",
+        "place": "Nagoya, Japan",
+        "award": "Best Poster Award"
+    },
+
+    {
+        "author": [
+            "Doyeon Kim",
+            "Hanwool Woo",
+            "Yonghoon Ji",
+            "Yusuke Tamura",
+            "Atsushi Yamashita",
+            "Hajime Asama"
+        ],
+        "title": "Localization of Radiation Sources Using Gamma-ray Detector in Simulated Environments",
+        "procs": "2016 International Conference on Maintenance Science and Technology",
+        "page": "FC-2-4",
+        "url": "",
+        "year": "2016",
+        "month": "November",
+        "place": "Shenzhen, China",
+        "award": ""
+    },
+
+    {
+        "author": [
+            "Yutaka Watanabe",
+            "Takayuki Aoki",
+            "Yuichi Niibori",
+            "Toru Obara",
+            "Isamu Sato",
+            "Saishun Yamazaki",
+            "Koji Okamoto",
+            "Shunichi Suzuki",
+            "Yusuke Tamura"
+        ],
+        "title": "Overview of the Fundamental Research and Human Resource Development for the Decommissioning of Fukushima Daiichi Nuclear Power Station in Japan",
+        "procs": "2016 International Conference on Maintenance Science and Technology",
+        "page": "FC-1-1",
+        "url": "",
+        "year": "2016",
+        "month": "November",
+        "place": "Shenzhen, China",
+        "award": ""
+    },
+
+    {
+        "author": [
+            "Hanwool Woo",
+            "Yonghoon Ji",
+            "Hitoshi Kono",
+            "Yusuke Tamura",
+            "Yasuhide Kuroda",
+            "Takashi Sugano",
+            "Yasunori Yamamoto",
+            "Atsushi Yamashita",
+            "Hajime Asama"
+        ],
+        "title": "Lane-Changing Feature Extraction Using Multisensor Integration",
+        "procs": "Proceedings of the 2016 16th International Conference on Control, Automation and Systems",
+        "page": "pp.1633-1636",
+        "url": "https://doi.org/10.1109/ICCAS.2016.7832518",
+        "year": "2016",
+        "month": "October",
+        "place": "Gyeongju, Korea",
+        "award": ""
+    },
+
+    {
+        "author": [
+            "Hanwool Woo",
+            "Yonghoon Ji",
+            "Hitoshi Kono",
+            "Yusuke Tamura",
+            "Atsushi Yamashita",
+            "Hajime Asama",
+            "Yasuhide Kuroda",
+            "Takashi Sugano",
+            "Yasunori Yamamoto"
+        ],
+        "title": "Dynamic Potential Model-based Feature for Lane Change Prediction",
+        "procs": "Proceedings of the 2016 IEEE International Conference on Systems, Man, and Cybernetics",
+        "page": "pp.838-843",
+        "url": "https://doi.org/10.1109/SMC.2016.7844344",
+        "year": "2016",
+        "month": "October",
+        "place": "Budapest, Hungary",
+        "award": ""
+    },
+
+    {
+        "author": [
+            "Yuki Ishikawa",
+            "Qi An",
+            "Shu Ishiguro",
+            "Koji Ohata",
+            "Hiroshi Yamakawa",
+            "Yusuke Tamura",
+            "Atsushi Yamashita",
+            "Hajime Asama"
+        ],
+        "title": "Auxiliary System to Classify Patterns of Patients with Hemiplegia for Transferring Skill of Rehabilitation with Walking Assist Robot",
+        "procs": "Proceedings of the 4th International Conference on Serviceology",
+        "page": "pp.154-157",
+        "url": "",
+        "year": "2016",
+        "month": "September",
+        "place": "Tokyo, Japan",
+        "award": ""
+    },
+
+    {
+        "author": [
+            "Wenzheng Chi",
+            "Hitoshi Kono",
+            "Yusuke Tamura",
+            "Atsushi Yamashita",
+            "Hajime Asama",
+            "Max Q.-H. Meng"
+        ],
+        "title": "A Human-Friendly Robot Navigation Algorithm Using the Risk-RRT Approach",
+        "procs": "Proceedings of the 2016 IEEE International Conference on Real-time Computing and Robotics",
+        "page": "pp.227-232",
+        "url": "https://doi.org/10.1109/RCAR.2016.7784030",
+        "year": "2016",
+        "month": "June",
+        "place": "Angkor Wat, Cambodia",
+        "award": "Best Student Paper Award"
+    },
+
+    {
+        "author": [
+            "Ningjia Yang",
+            "Qi An",
+            "Hiroshi Yamakawa",
+            "Yusuke Tamura",
+            "Atsushi Yamashita",
+            "Hajime Asama"
+        ],
+        "title": "Muscle Synergy Analysis in Human Standing-up Motion Using Different Strategies",
+        "procs": "Proceedings of the 1st International Symposium on Embodied-Brain Systems Science",
+        "page": "p.32",
+        "url": "",
+        "year": "2016",
+        "month": "May",
+        "place": "Tokyo, Japan",
+        "award": ""
+    },
+
+    {
+        "author": [
+            "Shunsuke Hamasaki",
+            "Qi An",
+            "Wen Wen",
+            "Yusuke Tamura",
+            "Hiroshi Yamakawa",
+            "Atsushi Yamashita",
+            "Hajime Asama",
+            "Satoshi Unenaka",
+            "Satoshi Shibuya",
+            "Yukari Ohki"
+        ],
+        "title": "Influence of Sense of Agency and Sense of Ownership on Body Representation Change of Human Upper Limb",
+        "procs": "Proceedings of the 1st International Symposium on Embodied-Brain Systems Science",
+        "page": "p.26",
+        "url": "",
+        "year": "2016",
+        "month": "May",
+        "place": "Tokyo, Japan",
+        "award": ""
     }
+
 ]

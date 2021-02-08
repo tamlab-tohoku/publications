@@ -1,15 +1,37 @@
 [
     {
         "author": [
-
+            "Takafumi Akashi",
+            "Yusuke Tamura",
+            "Shiro Yano",
+            "Hisashi Osumi"
         ],
-        "title": ,
-        "procs": ,
-        "page": ,
-        "url": "https://doi.org/",
-        "year": ,
-        "month": ,
-        "place": ,
-        "award": 
+        "title": "Analysis of Manipulating Other's Attention for Smooth Interaction Between Human and Robot",
+        "procs": "Proceedings of the 2013 IEEE/SICE International Symposium on System Integration",
+        "page": "pp.340-345",
+        "url": "https://doi.org/10.1109/SII.2013.6776634",
+        "year": "2013",
+        "month": "December",
+        "place": "Kobe, Japan",
+        "award": ""
+    },
+
+    {
+        "author": [
+            "Masaki Negishi",
+            "Hisashi Osumi",
+            "Keiichiro Saito",
+            "Hikaru Masuda",
+            "Yusuke Tamura"
+        ],
+        "title": "Development of Crane Tele-Operation System Using Laser Pointer Interface",
+        "procs": "Proceedings of the 2013 IEEE/RSJ International Conference on Intelligent Robots and Systems",
+        "page": "pp.5457-5462",
+        "url": "https://doi.org/10.1109/IROS.2013.6697146",
+        "year": "2013",
+        "month": "November",
+        "place": "Tokyo, Japan",
+        "award": ""
     }
+
 ]

@@ -1,15 +1,42 @@
 [
     {
         "author": [
-
+            "Rie Katsuki",
+            "Jun Ota",
+            "Yusuke Tamura",
+            "Takahisa Mizuta",
+            "Tomomi Kito",
+            "Tamio Arai",
+            "Tsuyoshi Ueyama",
+            "Tsuyoshi Nishiyama"
         ],
-        "title": ,
-        "procs": ,
-        "page": ,
-        "url": "https://doi.org/",
-        "year": ,
-        "month": ,
-        "place": ,
-        "award": 
+        "title": "Handling of Objects with Marks by a Robot",
+        "procs": "Proceedings of the 2003 IEEE/RSJ International Conference on Intelligent Robots and Systems",
+        "page": "pp.130-135",
+        "url": "https://doi.org/10.1109/IROS.2003.1250617",
+        "year": "2003",
+        "month": "October",
+        "place": "Las Vegas, USA",
+        "award": ""
+    },
+
+    {
+        "author": [
+            "Hideyuki Ando",
+            "Hiroyuki Yamato",
+            "Masahiro Sato",
+            "Takeo Karasawa",
+            "Yusuke Tamura",
+            "Susumu Shirayama",
+            "Hiroshi Masuda"
+        ],
+        "title": "A Research on Knowledge-Centered System for Ship Basic Design - Semantic Web Approach -",
+        "procs": "Proceedings of the 8th International Marine Design Conference",
+        "page": "pp.168-179",
+        "url": "",
+        "year": "2003",
+        "month": "May",
+        "place": "Athens, Greece",
+        "award": ""
     }
 ]

@@ -1,15 +1,33 @@
 [
     {
         "author": [
-
+            "Jun Ishii",
+            "Yusuke Tamura",
+            "Hajime Asama"
         ],
-        "title": ,
-        "procs": ,
-        "page": ,
-        "url": "https://doi.org/",
-        "year": ,
-        "month": ,
-        "place": ,
-        "award": 
+        "title": "Calibration-Free Wireless-LAN Location Estimation System Using Polar Coordinates Filter",
+        "procs": "Proceedings of the 7th International Conference on Ubiquitous Robots and Ambient Intelligence",
+        "page": "pp.437-440",
+        "url": "",
+        "year": "2010",
+        "month": "November",
+        "place": "Busan, Korea",
+        "award": ""
+    },
+
+    {
+        "author": [
+            "Yusuke Tamura",
+            "Tomohiro Fukuzawa",
+            "Hajime Asama"
+        ],
+        "title": "Smooth Collision Avoidance in Human-Robot Coexisting Environment",
+        "procs": "Proceedings of the 2010 IEEE/RSJ International Conference on Intelligent Robots and Systems",
+        "page": "pp.3887-3892",
+        "url": "https://doi.org/10.1109/IROS.2010.5649673",
+        "year": "2010",
+        "month": "October",
+        "place": "Taipei, Taiwan",
+        "award": ""
     }
 ]

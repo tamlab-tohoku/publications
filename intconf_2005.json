@@ -1,15 +1,65 @@
 [
     {
         "author": [
-
+            "Yusuke Tamura",
+            "Masao Sugi",
+            "Jun Ota",
+            "Tamio Arai"
         ],
-        "title": ,
-        "procs": ,
-        "page": ,
-        "url": "https://doi.org/",
-        "year": ,
-        "month": ,
-        "place": ,
-        "award": 
+        "title": "Placement of Self-Moving Trays for the Deskwork Support System",
+        "procs": "Proceedings of the 2005 IEEE/RSJ International Conference on Intelligent Robots and Systems",
+        "page": "pp.3886-3891",
+        "url": "https://doi.org/10.1109/IROS.2005.1545575",
+        "year": "2005",
+        "month": "August",
+        "place": "Edmonton, Canada",
+        "award": "IEEE Robotics and Automation Society Japan Chapter Young Award"
+    },
+
+    {
+        "author": [
+            "Makoto Nikaido",
+            "Masao Sugi",
+            "Yusuke Tamura",
+            "Jun Ota",
+            "Tamio Arai",
+            "Kiyoshi Kotani",
+            "Kiyoshi Takamasu",
+            "Akio Yamamoto",
+            "Seiichi Shin",
+            "Hiromasa Suzuki",
+            "Yoichi Sato"
+        ],
+        "title": "Arrangement Planning for Multiple Self-Moving Trays in Human Supporting Production Cell \"Attentive Workbench\"",
+        "procs": "Proceedings of the 2005 IEEE/RSJ International Conference on Intelligent Robots and Systems",
+        "page": "pp.3880-3885",
+        "url": "https://doi.org/10.1109/IROS.2005.1545574",
+        "year": "2005",
+        "month": "August",
+        "place": "Edmonton, Canada",
+        "award": ""
+    },
+
+    {
+        "author": [
+            "Masao Sugi",
+            "Makoto Nikaido",
+            "Yusuke Tamura",
+            "Jun Ota",
+            "Tamio Arai",
+            "Kiyoshi Kotani",
+            "Kiyoshi Takamasu",
+            "Seiichi Shin",
+            "Hiromasa Suzuki",
+            "Yoichi Sato"
+        ],
+        "title": "Motion Control of Self-Moving Trays for Human Supporting Production Cell \"Attentive Workbench\"",
+        "procs": "Proceedings of the 2005 IEEE International Conference on Robotics and Automation",
+        "page": "pp.4091-4096",
+        "url": "https://doi.org/10.1109/ROBOT.2005.1570746",
+        "year": "2005",
+        "month": "April",
+        "place": "Barcelona, Spain",
+        "award": ""
     }
 ]
