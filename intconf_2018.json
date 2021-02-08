@@ -1,15 +1,213 @@
 [
     {
         "author": [
-
+            "Kei Aoyagi",
+            "Wen Wen",
+            "Qi An",
+            "Shunsuke Hamasaki",
+            "Hiroshi Yamakawa",
+            "Yusuke Tamura",
+            "Atsushi Yamashita",
+            "Hajime Asama"
         ],
-        "title": ,
-        "procs": ,
-        "page": ,
-        "url": "https://doi.org/",
-        "year": ,
-        "month": ,
-        "place": ,
-        "award": 
+        "title": "Improvement of Sense of Agency via Visual Intervention in Virtual Reality",
+        "procs": "2nd International Symposium on Embodied-Brain Systems Science",
+        "page": "P27",
+        "url": "",
+        "year": "2018",
+        "month": "December",
+        "place": "Osaka, Japan",
+        "award": ""
+    },
+
+    {
+        "author": [
+            "Sonmin Yun",
+            "Wen Wen",
+            "Qi An",
+            "Shunsuke Hamasaki",
+            "Hiroshi Yamakawa",
+            "Yusuke Tamura",
+            "Atsushi Yamashita",
+            "Hajime Asama"
+        ],
+        "title": "Investigating the Relationship between Assisted Driver's Sense of Agency and EEG Alpha Power",
+        "procs": "2nd International Symposium on Embodied-Brain Systems Science",
+        "page": "P66",
+        "url": "",
+        "year": "2018",
+        "month": "December",
+        "place": "Osaka, Japan",
+        "award": ""
+    },
+
+    {
+        "author": [
+            "Hiroki Kogami",
+            "Qi An",
+            "Ningjia Yang",
+            "Hiroshi Yamakawa",
+            "Yusuke Tamura",
+            "Hiroshi Yamasaki",
+            "Matti Itkonen",
+            "Fady Shibata-Alnajjar",
+            "Shingo Shimoda",
+            "Makoto Kinomoto",
+            "Noriaki Hattori",
+            "Kouji Takahashi",
+            "Takanori Fujii", 
+            "Hironori Otomune",
+            "Ichiro Miyai",
+            "Atsushi Yamashita",
+            "Hajime Asama"
+        ],
+        "title": "Effect of Physical Therapy on Joint Angle of Hemiplegic Patients During Standing-up Motion",
+        "procs": "2nd International Symposium on Embodied-Brain Systems Science",
+        "page": "P51",
+        "url": "",
+        "year": "2018",
+        "month": "December",
+        "place": "Osaka, Japan",
+        "award": ""
+    },
+
+    {
+        "author": [
+            "Ningjia Yang",
+            "Qi An",
+            "Hiroshi Yamakawa",
+            "Yusuke Tamura",
+            "Kouji Takahashi",
+            "Makoto Kinomoto",
+            "Hiroshi Yamasaki",
+            "Matti Itkonen",
+            "Fady Shibata-Alnajjar",
+            "Shingo Shimoda",
+            "Noriaki Hattori",
+            "Takanori Fujii",
+            "Hironori Otomune",
+            "Ichiro Miyai",
+            "Atsushi Yamashita",
+            "Hajime Asama"
+        ],
+        "title": "Clarification of Altered Muscle Synergies during Sit-to-stand Motion in Stroke Patients",
+        "procs": "2nd International Symposium on Embodied-Brain Systems Science",
+        "page": "P50",
+        "url": "",
+        "year": "2018",
+        "month": "December",
+        "place": "Osaka, Japan",
+        "award": ""
+    },
+
+    {
+        "author": [
+            "Qi An",
+            "Hiroki Kogami",
+            "Ningjia Yang",
+            "Hiroshi Yamakawa",
+            "Yusuke Tamura",
+            "Hiroshi Yamasaki",
+            "Matti Itkonen",
+            "Fady Shibata-Alnajjar",
+            "Shingo Shimoda",
+            "Noriaki Hattori",
+            "Makoto Kinomoto",
+            "Kouji Takahashi",
+            "Takanori Fujii",
+            "Hironori Otomune",
+            "Ichiro Miyai",
+            "Atsushi Yamashita",
+            "Hajime Asama"
+        ],
+        "title": "Rehabilitation Intervention of Physical Therapists Improves Muscle Synergy during Standing-up Motion of Stroke Patients",
+        "procs": "2nd International Symposium on Embodied-Brain Systems Science",
+        "page": "P49",
+        "url": "",
+        "year": "2018",
+        "month": "December",
+        "place": "Osaka, Japan",
+        "award": ""
+    },
+
+    {
+        "author": [
+            "Hanwool Woo",
+            "Yonghoon Ji",
+            "Yusuke Tamura",
+            "Yasuhide Kuroda",
+            "Takashi Sugano",
+            "Yasunori Yamamoto",
+            "Atsushi Yamashita",
+            "Hajime Asama"
+        ],
+        "title": "Advanced Adaptive Cruise Control Based on Collision Risk Assessment",
+        "procs": "Proceedings of the IEEE 21st International Conference on Intelligent Transportation Systems",
+        "page": "pp.939-944",
+        "url": "https://doi.org/10.1109/ITSC.2018.8569759",
+        "year": "2018",
+        "month": "November",
+        "place": "Maui, USA",
+        "award": ""
+    },
+
+    {
+        "author": [
+            "Sonmin Yun",
+            "Wen Wen",
+            "Qi An",
+            "Shunsuke Hamasaki",
+            "Hiroshi Yamakawa",
+            "Yusuke Tamura",
+            "Atsushi Yamashita",
+            "Hajime Asama"
+        ],
+        "title": "Investigating the Relationship Between Assisted Driver's SoA and EEG",
+        "procs": "Proceedings of the 5th International Conference on Neurorehabilitation",
+        "page": "pp.1039-1043",
+        "url": "https://doi.org/10.1007/978-3-030-01845-0_208",
+        "year": "2018",
+        "month": "October",
+        "place": "Pisa, Italy",
+        "award": ""
+    },
+
+    {
+        "author": [
+            "Yusheng Wang",
+            "Yonghoon Ji",
+            "Hanwool Woo",
+            "Yusuke Tamura",
+            "Atsushi Yamashita",
+            "Hajime Asama"
+        ],
+        "title": "3D Occupancy Mapping Framework Based on Acoustic Camera in Underwater Environment",
+        "procs": "IFAC PapersOnLine, Vol.51, No.22 (12th IFAC Symposium on Robot Control SYROCO 2018)",
+        "page": "pp.324-330",
+        "url": "https://doi.org/10.1016/j.ifacol.2018.11.562",
+        "year": "2018",
+        "month": "August",
+        "place": "Budapest, Hungary",
+        "award": ""
+    },
+
+    {
+        "author": [
+            "Ngoc Trung Mai",
+            "Yonghoon Ji",
+            "Hanwool Woo",
+            "Yusuke Tamura",
+            "Atsushi Yamashita",
+            "Hajime Asama"
+        ],
+        "title": "Acoustic Image Simulator Based on Active Sonar Model in Underwater Environment",
+        "procs": "Proceedings of the 15th International Conference on Ubiquitous Robots",
+        "page": "pp.775-780",
+        "url": "https://doi.org/10.1109/URAI.2018.8441870",
+        "year": "2018",
+        "month": "June",
+        "place": "Honolulu, USA",
+        "award": ""
     }
+
 ]
