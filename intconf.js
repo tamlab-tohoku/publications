@@ -1,8 +1,8 @@
 rep_url = "https://raw.githubusercontent.com/tamlab-tohoku/publications/main/";
 
 url2021 = rep_url + "intconf_2021.json";
-/*
 url2020 = rep_url + "intconf_2020.json";
+/*
 url2019 = rep_url + "intconf_2019.json";
 url2018 = rep_url + "intconf_2018.json";
 url2017 = rep_url + "intconf_2017.json";
@@ -23,8 +23,8 @@ url2003 = rep_url + "intconf_2003.json";
 */
 
 $.when(
-    $.getJSON(url2021)/*,
-    $.getJSON(url2020),
+    $.getJSON(url2021),
+    $.getJSON(url2020)/*,
     $.getJSON(url2019),
     $.getJSON(url2018),
     $.getJSON(url2017),
@@ -45,8 +45,8 @@ $.when(
 )
 //.done(function(data2021, data2020, data2019, data2018, data2017, data2016, data2015, data2014, data2013, data2012, data2011, data2010, data2009, data2008, data2007, data2006, data2005, data2004, data2003){
 //     const cdata = [...data2021[0], ...data2020[0], ...data2019[0], ...data2018[0], ...data2017[0], ...data2016[0], ...data2015[0], ...data2014[0], ...data2013[0], ...data2012[0], ...data2011[0], ...data2010[0], ...data2009[0], ...data2008[0], ...data2007[0], ...data2006[0], ...data2005[0], ...data2004[0], ...data2003[0]];
-.done(function(data2021){
-  const cdata = [...data2021[0]];
+.done(function(data2021, data2020){
+  const cdata = [...data2021[0], ...data2020[0]];
   for(var i in cdata){
         var authors = cdata[i].author.join(', ');
          $("#intl_list").append("<li>[" + (cdata.length-i) +"] " + authors + ": <strong>" + cdata[i].title +"<\/strong>, <i>" + cdata[i].procs + "<\/i>, " + cdata[i].page + ", " + cdata[i].place + ", " + cdata[i].month + ", " + cdata[i].year + ". <br><a href=\"" + cdata[i].url + "<\/a><\/li>");
