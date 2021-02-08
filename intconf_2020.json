@@ -1,15 +1,53 @@
 [
     {
         "author": [
-
+            "Shota Chikushi",
+            "Jun Younes Louhi Kasahara",
+            "Hiromitsu Fujii",
+            "Yusuke Tamura",
+            "Angela Faragasso",
+            "Hiroshi Yamakawa",
+            "Keiji Nagatani",
+            "Yonghoon Ji",
+            "Shinya Aoki",
+            "Takumi Chiba",
+            "SHingo Yamamoto",
+            "Kazuhiro Chayama",
+            "Atsushi Yamashita",
+            "Hajime Asama"
         ],
-        "title": ,
-        "procs": ,
-        "page": ,
-        "url": "https://doi.org/",
-        "year": ,
-        "month": ,
-        "place": ,
-        "award": 
+        "title": "Research and Development of Construction Technology in Social Cooperation Program \"Intelligent Construction System\"",
+        "procs": "Proceedings of the 37th International Symposium on Automation and Robotics in Construction",
+        "page": "pp.1536-1540",
+        "url": "https://doi.org/10.22260/ISARC2020/0213",
+        "year": "2020",
+        "month": "October",
+        "place": "Online",
+        "award": ""
+    },
+
+    {
+        "author": [
+            "Jinhyeok Sim",
+            "Jun Younes Louhi Kasahara",
+            "Shota Chikushi",
+            "Hiroshi Yamakawa",
+            "Yusuke Tamura",
+            "Keiji Nagatani",
+            "Takumi Chiba",
+            "SHingo Yamamoto",
+            "Kazuhiro Chayama",
+            "Atsushi Yamashita",
+            "Hajime Asama"
+        ],
+        "title": "Action Recognition of Construction Machinery from Simulated Training Data Using Video Filters",
+        "procs": "Proceedings of the 37th International Symposium on Automation and Robotics in Construction",
+        "page": "pp.595-599",
+        "url": "https://doi.org/10.22260/ISARC2020/0083",
+        "year": "2020",
+        "month": "October",
+        "place": "Online",
+        "award": ""
     }
+
 ]
