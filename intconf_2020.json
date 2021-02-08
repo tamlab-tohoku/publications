@@ -48,6 +48,116 @@
         "month": "October",
         "place": "Online",
         "award": ""
+    },
+
+    {
+        "author": [
+            "Ren Komatsu",
+            "Hiromitsu Fujii",
+            "Yusuke Tamura",
+            "Atsushi Yamashita",
+            "Hajime Asama"
+        ],
+        "title": "360° Depth Estimation from Multiple Fisheye Images with Origami Crown Representation of Icosahedron",
+        "procs": "Proceedings of the 2020 IEEE/RSJ International Conference on Intelligent Robots and Systems",
+        "page": "pp.10092-10099",
+        "url": "https://arxiv.org/abs/2007.06891",
+        "year": "2020",
+        "month": "October",
+        "place": "Online",
+        "award": 
+    },
+
+    {
+        "author": [
+            "Yusheng Wang",
+            "Yonghoon Ji",
+            "Hanwool Woo",
+            "Yusuke Tamura",
+            "Hiroshi Tsuchiya",
+            "Atsushi Yamashita",
+            "Hajime Asama"
+        ],
+        "title": "Planar AnP: A Solution to Acoustic-n-Point Problem on Planar Target",
+        "procs": "Global Oceans 2020",
+        "page": "",
+        "url": "https://globaloceans2020.org/proceedings/",
+        "year": "2020",
+        "month": "October",
+        "place": "Online",
+        "award": 
+    },
+
+    {
+        "author": [
+            "Hanwool Woo",
+            "Hirokazu Madokoro",
+            "Kazuhito Sato",
+            "Yusuke Tamura",
+            "Atsushi Yamashita",
+            "Hajime Asama"
+        ],
+        "title": "Prediction of Following Vehicle Trajectory Considering Operation Characteristics of a Human Driver",
+        "procs": "Proceedings of the 2020 IEEE/SICE International Symposium on System Integration",
+        "page": "pp.712-717",
+        "url": "https://doi.org/10.1109/SII46433.2020.9026243",
+        "year": "2020",
+        "month": "January",
+        "place": "Honolulu, USA",
+        "award": 
+    },
+
+    {
+        "author": [
+            "Shota Chikushi",
+            "Yushi Moriyama",
+            "Hiromitsu Fujii",
+            "Yusuke Tamura",
+            "Hiroshi Yamakawa",
+            "Keiji Nagatani",
+            "Yuya Sakai",
+            "Takumi Chiba",
+            "SHingo Yamamoto",
+            "Kazuhiro Chayama",
+            "Atsushi Yamashita",
+            "Hajime Asama"
+        ],
+        "title": "Automated Image Presentation for Backhoe Embankment Construction in Unmanned Construction Site",
+        "procs": "Proceedings of the 2020 IEEE/SICE International Symposium on System Integration",
+        "page": "pp.22-27",
+        "url": "https://doi.org/10.1109/SII46433.2020.9026298",
+        "year": "2020",
+        "month": "January",
+        "place": "Honolulu, USA",
+        "award": 
+    },
+
+    {
+        "author": [
+            "Hideki Tomita",
+            "Kotaro Kanamori",
+            "Atsushi Mukai",
+            "Mizuki Uenomachi",
+            "Agus Nurrachman",
+            "Kenji Shimazoe",
+            "Hiroyuki Takahashi",
+            "Hanwool Woo",
+            "Yusuke Tamura",
+            "Hidetake Ebi",
+            "Fumihiko Ishida",
+            "Eiji Takada",
+            "Jun Kawarabayashi",
+            "Ken'ichi Tsuchiya",
+            "Tetsuo Iguchi"
+        ],
+        "title": "Gamma-ray Source Identification by a Vehicle-Mounted 4π Compton Imager",
+        "procs": "Proceedings of the 2020 IEEE/SICE International Symposium on System Integration",
+        "page": "pp.18-21",
+        "url": "https://doi.org/10.1109/SII46433.2020.9025865",
+        "year": "2020",
+        "month": "January",
+        "place": "Honolulu, USA",
+        "award": 
     }
 
 ]
