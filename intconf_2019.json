@@ -1,15 +1,212 @@
 [
     {
         "author": [
-
+            "Hideki Tomita",
+            "Kotaro Kanamori",
+            "Atsushi Mukai",
+            "Yusuke Oshima",
+            "Yuri Yoshihara",
+            "Kenji Shimazoe",
+            "Hiroyuki Takahashi",
+            "Hanwool Woo",
+            "Yusuke Tamura",
+            "Hidetake Ebi",
+            "Fumihiko Ishida",
+            "Eiji Takada",
+            "Jun Kawarabayashi",
+            "Ken'ichi Tsuchiya",
+            "Tetsuo Iguchi"
         ],
-        "title": ,
-        "procs": ,
+        "title": "Development of Radioactive Source Identification by 4π Compton Gamma Imaging using Origin Ensemble Algorithm",
+        "procs": "2019 IEEE Nuclear Science Symposium and Medical Imaging Conference",
+        "page": "N-05-235",
+        "url": "",
+        "year": "2019",
+        "month": "October",
+        "place": "Manchester, UK",
+        "award": 
+    },
+
+    {
+        "author": [
+            "Norihiro Yamauchi",
+            "Shota Chikushi",
+            "Yusuke Tamura",
+            "Hiroshi Yamakawa",
+            "Keiji Nagatani",
+            "Hiromitsu Fujii",
+            "Yuya Sakai",
+            "Takumi Chiba",
+            "Shingo Yamamoto",
+            "Kazuhiro Chayama",
+            "Atsushi Yamashita",
+            "Hajime Asama"
+        ],
+        "title": "Estimation of Cone Index from Water Content and Soil Types Obtained by Hyperspectral Images",
+        "procs": "Proceedings of the 2019 IEEE 8th Global Conference on Consumer Electronics",
+        "page": "pp.999-1002",
+        "url": "https://doi.org/10.1109/GCCE46687.2019.9015564",
+        "year": "2019",
+        "month": "October",
+        "place": "Osaka, Japan",
+        "award": 
+    },
+
+    {
+        "author": [
+            "Hanwool Woo",
+            "Hirokazu Madokoro",
+            "Kazuhito Sato",
+            "Yusuke Tamura",
+            "Atsushi Yamashita",
+            "Hajime Asama"
+        ],
+        "title": "Advanced Adaptive Cruise Control Considering Reaction Time of Following Driver",
+        "procs": "Proceedings of the 2019 IEEE 8th Global Conference on Consumer Electronics",
+        "page": "pp.995-996",
+        "url": "https://doi.org/10.1109/GCCE46687.2019.9015420",
+        "year": "2019",
+        "month": "October",
+        "place": "Osaka, Japan",
+        "award": 
+    },
+
+    {
+        "author": [
+            "Hiroki Kogami",
+            "Qi An",
+            "Hiroshi Yamakawa",
+            "Ningjia Yang",
+            "Yusuke Tamura",
+            "Hiroshi Yamasaki",
+            "Fady S. Alnajjar",
+            "Shingo Shimoda",
+            "Makoto Kinomoto",
+            "Noriaki Hattori",
+            "Kouji Takahashi",
+            "Takanori Fujii",
+            "Hironori Otomune",
+            "Ichiro Miyai",
+            "Shu Ishiguro",
+            "Takashi Saigusa",
+            "Yoshikazu Nozaki",
+            "Haruhisa Maruyama",
+            "Atsushi Yamashita",
+            "Hajime Asama"
+        ],
+        "title": "Assistive Chair to Support Hip Rising of Elderly People Improves Body Movement of Sit-to-Stand Motion",
+        "procs": "Preprints of the 1st IFAC Workshop on Robot Control",
+        "page": "pp.480-483",
+        "url": "",
+        "year": "2019",
+        "month": "September",
+        "place": "Daejeon, Korea",
+        "award": 
+    },
+
+    {
+        "author": [
+            "Shinya Katsuma",
+            "Hanwool Woo",
+            "Yonghoon Ji",
+            "Yusuke Tamura",
+            "Atsushi Yamashita",
+            "Hajime Asama"
+        ],
+        "title": "Efficient Motion Planning for Mobile Robots Dealing with Changes in Rough Terrain",
+        "procs": "IFAC PapersOnLine, Vol.52, No.22 (1st 1FAC Workshop on Robot Control WROCO 2019)",
+        "page": "pp.83-86",
+        "url": "https://doi.org/10.1016/j.ifacol.2019.11.052",
+        "year": "2019",
+        "month": "September",
+        "place": "Daejeon, Korea",
+        "award": 
+    },
+
+    {
+        "author": [
+            "Yusheng Wang",
+            "Yonghoon Ji",
+            "Hanwool Woo",
+            "Yusuke Tamura",
+            "Hiroshi Tsuchiya",
+            "Atsushi Yamashita",
+            "Hajime Asama"
+        ],
+        "title": "Rotation Estimation of Acoustic Camera Based on Illuminated Area in Acoustic Image",
+        "procs": "IFAC PapersOnLine, Vol.52, No.21 (12th IFAC Conference on Control APplications in Marine Systems, Robotics, and Vehicles CAMS 2019)",
+        "page": "pp.163-168",
+        "url": "https://doi.org/10.1016/j.ifacol.2019.12.301",
+        "year": "2019",
+        "month": "September",
+        "place": "Daejeon, Korea",
+        "award": 
+    },
+
+    {
+        "author": [
+            "Kei Aoyagi",
+            "Wen Wen",
+            "Qi An",
+            "Shunsuke Hamasaki",
+            "Hiroshi Yamakawa",
+            "Yusuke Tamura",
+            "Atsushi Yamashita",
+            "Hajime Asama"
+        ],
+        "title": "Improvement of Sense of Agency During Upper-Limb Movement for Motor Rehabilitation Using Virtual Reality",
+        "procs": "Proceedings of the 2019 41st Annual International Conference of the IEEE Engineering in Medicine and Biology Society",
+        "page": "pp.118-121",
+        "url": "https://doi.org/10.1109/EMBC.2019.8856796",
+        "year": "2019",
+        "month": "July",
+        "place": "Berlin, Germany",
+        "award": 
+    },
+
+    {
+        "author": [
+            "Kotaro Kanamori",
+            "Atsushi Mukai",
+            "Hideki Tomita",
+            "Kohei Uema",
+            "Tetsuo Iguchi",
+            "Tetsuya Shimoyama",
+            "Jun Kawarabayashi",
+            "Eiji Takada",
+            "Yusuke Oshima",
+            "Yuri Yoshihara",
+            "Kenji Shimazoe",
+            "Hiroyuki Takahashi",
+            "Hanwool Woo",
+            "Yusuke Tamura"
+        ],
+        "title": "Development of 3D Imaging of Radioactive Source using 4π Sensitive Compton Gamma Camera",
+        "procs": "International Topical Workshop on Fukushima Decommissioning Research",
         "page": ,
-        "url": "https://doi.org/",
-        "year": ,
-        "month": ,
-        "place": ,
+        "url": "",
+        "year": "2019",
+        "month": "May",
+        "place": "Naraha, Japan",
+        "award": 
+    },
+
+    {
+        "author": [
+            "Yusheng Wang",
+            "Yonghoon Ji",
+            "Hanwool Woo",
+            "Yusuke Tamura",
+            "Atsushi Yamashita",
+            "Hajime Asama"
+        ],
+        "title": "Graph Optimization-Based 3D Mapping of Underwater Environment Using Acoustic Camera",
+        "procs": "Proceedings of the 2019 IEEE/SICE International Symposium on System Integration",
+        "page": "pp.28-33",
+        "url": "https://doi.org/10.1109/SII.2019.8700464",
+        "year": "2019",
+        "month": "January",
+        "place": "Paris, France",
         "award": 
     }
 ]
