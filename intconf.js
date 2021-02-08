@@ -48,7 +48,7 @@ $.when(
      for(var i in cdata){
         var authors = cdata[i].author.join(', ');
          $("#intconf_list").append("<li>[" + (cdata.length-i) +"] " + authors + ": <strong>" + cdata[i].title +"<\/strong>, <i>" + cdata[i].procs + "<\/i>, " + cdata[i].page + ", "
-          + cdata[i].place + ", " + cdata[i].month + ", " + cdata[i].year + ". <br>" + cdata[i].url);
+          + cdata[i].place + ", " + cdata[i].month + ", " + cdata[i].year + ". <br>" + cdata[i].url + "<\/li>");
      }
   }
 })
