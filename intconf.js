@@ -47,8 +47,8 @@ $.when(
 .done(function(data2021, data2020, data2019){
   const cdata = [...data2021[0], ...data2020[0], ...data2019[0]];
   for(var i in cdata){
-        var authors = cdata[i].author.join(', ');
-         $("#intl_list").append("<li>[" + (cdata.length-i) +"] " + authors + ": <strong>" + cdata[i].title +"<\/strong>, <i>" + cdata[i].procs + "<\/i>, " + cdata[i].page + ", " + cdata[i].place + ", " + cdata[i].month + ", " + cdata[i].year + ". <br><a href=\"" + cdata[i].url + "<\/a><\/li>");
+    var authors = cdata[i].author.join(', ');
+    $("#intl_list").append("<li>[" + (cdata.length-i) +"] " + authors + ": <strong>" + cdata[i].title +"<\/strong>, <i>" + cdata[i].procs + "<\/i>, " + cdata[i].page + ", " + cdata[i].place + ", " + cdata[i].month + ", " + cdata[i].year + ". <br><a href=\"" + cdata[i].url + ">" + cdata[i].url+ "<\/a><\/li>");
   }
 })
 .fail(function(){
