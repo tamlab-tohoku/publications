@@ -45,7 +45,7 @@ $.when(
      const cdata = [...data2021[0], ...data2020[0], ...data2019[0], ...data2018[0], ...data2017[0], ...data2016[0], ...data2015[0], ...data2014[0], ...data2013[0], ...data2012[0], ...data2011[0], ...data2010[0], ...data2009[0], ...data2008[0], ...data2007[0], ...data2006[0], ...data2005[0], ...data2004[0], ...data2003[0]];
   for(var i in cdata){
     var authors = cdata[i].author.join(', ');
-    $("#intl_list").append("<li>[" + (cdata.length-i) +"] " + authors + ": <strong>" + cdata[i].title +"<\/strong>, <i>" + cdata[i].procs + "<\/i>, " + cdata[i].page + ", " + cdata[i].place + ", " + cdata[i].month + ", " + cdata[i].year + ".<br><a href=\"" +cdata[i].url + "\">" + cdata[i].url + "<\/a><\/li>");
+    $("#intl_list").append("<li>[" + (cdata.length-i) +"] " + authors + ": <strong>" + cdata[i].title +"<\/strong>, <i>" + cdata[i].procs + "<\/i>, " + cdata[i].page + ", " + cdata[i].place + ", " + cdata[i].month + ", " + cdata[i].year + ". <br><a href=\"" +cdata[i].url + "\">" + cdata[i].url + "<\/a><\/li>");
   }
 })
 .fail(function(){
