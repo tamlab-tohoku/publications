@@ -24,7 +24,7 @@
         "year": "2019",
         "month": "October",
         "place": "Manchester, UK",
-        "award": 
+        "award": ""
     },
 
     {
@@ -49,7 +49,7 @@
         "year": "2019",
         "month": "October",
         "place": "Osaka, Japan",
-        "award": 
+        "award": ""
     },
 
     {
@@ -68,7 +68,7 @@
         "year": "2019",
         "month": "October",
         "place": "Osaka, Japan",
-        "award": 
+        "award": ""
     },
 
     {
@@ -101,7 +101,7 @@
         "year": "2019",
         "month": "September",
         "place": "Daejeon, Korea",
-        "award": 
+        "award": ""
     },
 
     {
@@ -120,7 +120,7 @@
         "year": "2019",
         "month": "September",
         "place": "Daejeon, Korea",
-        "award": 
+        "award": ""
     },
 
     {
@@ -140,7 +140,7 @@
         "year": "2019",
         "month": "September",
         "place": "Daejeon, Korea",
-        "award": 
+        "award": ""
     },
 
     {
@@ -161,7 +161,7 @@
         "year": "2019",
         "month": "July",
         "place": "Berlin, Germany",
-        "award": 
+        "award": ""
     },
 
     {
@@ -183,12 +183,12 @@
         ],
         "title": "Development of 3D Imaging of Radioactive Source using 4π Sensitive Compton Gamma Camera",
         "procs": "International Topical Workshop on Fukushima Decommissioning Research",
-        "page": ,
+        "page": "",
         "url": "",
         "year": "2019",
         "month": "May",
         "place": "Naraha, Japan",
-        "award": 
+        "award": ""
     },
 
     {
@@ -207,6 +207,6 @@
         "year": "2019",
         "month": "January",
         "place": "Paris, France",
-        "award": 
+        "award": ""
     }
 ]
