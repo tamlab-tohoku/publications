@@ -16,7 +16,7 @@ $.when(
      const cdata = [...data2019[0], ...data2018[0], ...data2017[0], ...data2015[0], ...data2012[0]];
      for(var i in cdata){
         var authors = cdata[i].author.join(', ');
-         $("#invited_list").append("<li>[" + (cdata.length-i) +"] " + authors + ": <strong>" + cdata[i].title +"<\/strong>, <i>" + cdata[i].event + "<\/i>, " + cdata[i].year+ "年" + cdata[i].month + "月" + cdata[i].date + "日.<\/li>");
+         $("#invited_list").append("<li>" + authors + ": <strong>" + cdata[i].title +"<\/strong>, <i>" + cdata[i].event + "<\/i>, " + cdata[i].year+ "年" + cdata[i].month + "月" + cdata[i].date + "日.<\/li>");
   }
 })
 .fail(function(){

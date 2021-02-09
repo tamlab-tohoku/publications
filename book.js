@@ -17,7 +17,7 @@ $.when(
      for(var i in cdata){
         var authors = cdata[i].author.join(', ');
         var editors = cdata[i].editor.join(', ');
-         $("#book_list").append("<li>[" + (cdata.length-i) +"] " + authors + ": <strong>" + cdata[i].title +"<\/strong>, <i>" + cdata[i].book + "<\/i>, " + editors + " (Eds.), " + cdata[i].publisher + cdata[i].page + ", " + cdata[i].year + ". <br><a href=\"" +cdata[i].url + "\">" + cdata[i].url + "<\/a><\/li>");
+         $("#book_list").append("<li>" + authors + ": <strong>" + cdata[i].title +"<\/strong>, <i>" + cdata[i].book + "<\/i>, " + editors + " (Eds.), " + cdata[i].publisher + cdata[i].page + ", " + cdata[i].year + ". <br><a href=\"" +cdata[i].url + "\">" + cdata[i].url + "<\/a><\/li>");
   }
 })
 .fail(function(){
