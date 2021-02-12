@@ -18,6 +18,8 @@ $.when(
      const cdata = [...data2019[0], ...data2018[0], ...data2017[0], ...data2015[0], ...data2012[0]];
      for(var i in cdata){
         var authors = cdata[i].author.join(', ');
+        //authors = authors.replace('Yusuke Tamura', '<u>Yusuke Tamura</u>');
+        //authors = authors.replace('田村雄介', '<u>田村雄介</u>');
          $("#invited_list").append("<li>" + authors + ": <strong>" + cdata[i].title +"<\/strong>, <i>" + cdata[i].event + "<\/i>, " + cdata[i].year+ "年" + cdata[i].month + "月" + cdata[i].date + "日.<\/li>");
   }
 })

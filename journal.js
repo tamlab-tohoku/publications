@@ -43,6 +43,8 @@ $.when(
    	const cdata = [...data2021[0], ...data2020[0], ...data2019[0], ...data2018[0], ...data2017[0], ...data2016[0], ...data2014[0], ...data2013[0], ...data2012[0], ...data2011[0], ...data2010[0], ...data2009[0], ...data2008[0], ...data2006[0], ...data2005[0], ...data2004[0], ...data2002[0]];
    	for(var i in cdata){
       	var authors = cdata[i].author.join(', ');
+        //authors = authors.replace('Yusuke Tamura', '<u>Yusuke Tamura</u>');
+        //authors = authors.replace('田村雄介', '<u>田村雄介</u>');
        	$("#journal_list").append("<li>" + authors + ": <strong>" + cdata[i].title +"<\/strong>, <i>" + cdata[i].journal + "<\/i>, " + cdata[i].vol + ", " + cdata[i].no + ", " + cdata[i].page + ", " + cdata[i].year + ". <br><a href=\"" +cdata[i].url + "\">" + cdata[i].url + "<\/a><\/li>");
     }
 })
