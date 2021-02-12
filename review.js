@@ -1,8 +1,10 @@
 rep_url = "https://raw.githubusercontent.com/tamlab-tohoku/publications/main/";
 
-url2019 = rep_url + "review_2019.json";
-url2018 = rep_url + "review_2018.json";
-url2012 = rep_url + "review_2012.json";
+var time = new Date().getTime();
+
+url2019 = rep_url + "review_2019.json"+"?" + time;
+url2018 = rep_url + "review_2018.json"+"?" + time;
+url2012 = rep_url + "review_2012.json"+"?" + time;
 $.when(
     $.getJSON(url2019),
     $.getJSON(url2018),

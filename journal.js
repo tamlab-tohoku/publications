@@ -1,22 +1,24 @@
   rep_url = "https://raw.githubusercontent.com/tamlab-tohoku/publications/main/";
 
-  url2021 = rep_url + "journal_2021.json";
-  url2020 = rep_url + "journal_2020.json";
-  url2019 = rep_url + "journal_2019.json";
-  url2018 = rep_url + "journal_2018.json";
-  url2017 = rep_url + "journal_2017.json";
-  url2016 = rep_url + "journal_2016.json";
-  url2014 = rep_url + "journal_2014.json";
-  url2013 = rep_url + "journal_2013.json";
-  url2012 = rep_url + "journal_2012.json";
-  url2011 = rep_url + "journal_2011.json";
-  url2010 = rep_url + "journal_2010.json";
-  url2009 = rep_url + "journal_2009.json";
-  url2008 = rep_url + "journal_2008.json";
-  url2006 = rep_url + "journal_2006.json";
-  url2005 = rep_url + "journal_2005.json";
-  url2004 = rep_url + "journal_2004.json";
-  url2002 = rep_url + "journal_2002.json";
+  var time = new Date().getTime(); //cacheを防ぐための小細工
+
+  url2021 = rep_url + "journal_2021.json" +"?" + time;
+  url2020 = rep_url + "journal_2020.json"+"?" + time;
+  url2019 = rep_url + "journal_2019.json"+"?" + time;
+  url2018 = rep_url + "journal_2018.json"+"?" + time;
+  url2017 = rep_url + "journal_2017.json"+"?" + time;
+  url2016 = rep_url + "journal_2016.json"+"?" + time;
+  url2014 = rep_url + "journal_2014.json"+"?" + time;
+  url2013 = rep_url + "journal_2013.json"+"?" + time;
+  url2012 = rep_url + "journal_2012.json"+"?" + time;
+  url2011 = rep_url + "journal_2011.json"+"?" + time;
+  url2010 = rep_url + "journal_2010.json"+"?" + time;
+  url2009 = rep_url + "journal_2009.json"+"?" + time;
+  url2008 = rep_url + "journal_2008.json"+"?" + time;
+  url2006 = rep_url + "journal_2006.json"+"?" + time;
+  url2005 = rep_url + "journal_2005.json"+"?" + time;
+  url2004 = rep_url + "journal_2004.json"+"?" + time;
+  url2002 = rep_url + "journal_2002.json"+"?" + time;
 
 $.when(
       $.getJSON(url2021),
