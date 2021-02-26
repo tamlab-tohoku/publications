@@ -1,0 +1,127 @@
+[
+    {
+        "author": [
+            "湖上碩樹", "安琪", "吉田和憲", "王若曦", "山川博司", "楊濘嘉", "山崎弘嗣", "Fady Alnajjar", "園尾萌香", "下田真吾", "服部憲明", "高橋幸治", "藤井崇典", "乙宗宏範", "宮井一郎", "田村雄介", "山下淳", "淺間一"
+        ],
+        "title": "リハビリテーションにおける片麻痺患者の起立動作の改善過程の解明 〜滑らかさと安定性による評価〜",
+        "procs": "計測自動制御学会システム・情報部門学術講演会2020",
+        "page": "",
+        "year": "2020",
+        "month": "11",
+        "place": "オンライン",
+        "award": "",
+        "review": ""
+    }, 
+
+    {
+        "author": [
+            "Agus Nur Rachman", "Kenji Shimazoe", "Hiroyuki Takahashi", "Yusuke Tamura", "Hideki Tomita", "Hanwool Woo", "Kei Kamada", "Fumihiko Ishida", "Eiji Takada", "Kosuke Tanabe"
+        ],
+        "title": "Prototype Development of Sphere Compton Imaging System with GFAG Scintillators",
+        "procs": "日本原子力学会2020年秋の大会",
+        "page": "1M07",
+        "year": "2020",
+        "month": "9",
+        "place": "オンライン",
+        "award": "",
+        "review": ""
+    }, 
+
+    {
+        "author": [
+            "向篤志", "原真太朗", "山岸恵大", "寺林稜平", "島添健次", "田村雄介", "禹ハンウル", "岸本卓也", "Zhong Zhihong", "上ノ町水紀", "Agus Nurrachman", "高橋浩之", "淺間一", "富田英生"
+        ],
+        "title": "全方向コンプトンイメージングに基づく放射線源可視化・定量法の開発 (3) 無人ビークル搭載全方向コンプトンカメラを用いた実験的検証",
+        "procs": "日本原子力学会2020年秋の大会",
+        "page": "1M05",
+        "year": "2020",
+        "month": "9",
+        "place": "オンライン",
+        "award": "",
+        "review": ""
+    }, 
+
+    {
+        "author": [
+            "原真太朗", "向篤志", "山岸恵大", "寺林稜平", "島添健次", "田村雄介", "禹ハンウル", "岸本卓也", "Zhong Zhihong", "上ノ町水紀", "Agus Nurrachman", "高橋浩之", "淺間一", "富田英生"
+        ],
+        "title": "全方向コンプトンカメラによる放射性物質探知手法の開発 (6) 線源探知用検出器移動アルゴリズムの検討",
+        "procs": "第81回応用物理学会秋季学術講演会",
+        "page": "10a-Z19-9",
+        "year": "2020",
+        "month": "9",
+        "place": "オンライン",
+        "award": "",
+        "review": ""
+    }, 
+
+    {
+        "author": [
+            "沈鎭赫", "ルイ笠原・純ユネス", "筑紫彰太", "山川博司", "田村雄介", "永谷圭司", "千葉拓史", "山本新吾", "茶山和博", "山下淳", "淺間一"
+        ],
+        "title": "シミュレーションの訓練データを用いた深層学習による油圧ショベルの動作認識",
+        "procs": "日本機械学会ロボティクス・メカトロニクス講演会2020講演論文集",
+        "page": "2P2-A05",
+        "year": "2020",
+        "month": "5",
+        "place": "オンライン",
+        "award": "",
+        "review": ""
+    }, 
+
+    {
+        "author": [
+            "Nur Rachman Agus", "Zhihong Zhong", "Kenji Shimazoe", "Hiroyuki Takahashi", "Mizuki Uenomachi", "Jun Kawarabayashi", "Yusuke Tamura", "Hideki Tomita", "Atsushi Mukai", "Kotaro Kanamori", "Shintaro Hara", "Ryohei Terabayashi", "Tetsuo Iguchi", "Hanwool Woo", "Hidetaka Ebi", "Fumihiko Ishida", "Eiji Takada", "Ken'ichi Tsuchiya"
+        ],
+        "title": "Mobile Robot Compton Camera for Environment Monitoring",
+        "procs": "日本機械学会ロボティクス・メカトロニクス講演会2020講演論文集",
+        "page": "1P2-D05",
+        "year": "2020",
+        "month": "5",
+        "place": "オンライン",
+        "award": "",
+        "review": ""
+    }, 
+
+    {
+        "author": [
+            "王ぎょくせい", "池勇勳", "劉丁瑜", "田村雄介", "土屋洋", "山下淳", "淺間一"
+        ],
+        "title": "音響カメラに基づいた水中環境における人工マーカシステムの開発",
+        "procs": "日本機械学会ロボティクス・メカトロニクス講演会2020講演論文集",
+        "page": "1A1-B01",
+        "year": "2020",
+        "month": "5",
+        "place": "オンライン",
+        "award": "",
+        "review": ""
+    }, 
+
+    {
+        "author": [
+           "山内統広", "筑紫彰太", "田村雄介", "山川博司", "永谷圭司", "藤井浩光", "千葉拓史", "山本新吾", "茶山和博", "山下淳", "淺間一"
+        ],
+        "title": "スペクトル画像を用いた土の種類の識別と含水比の推定に基づくコーン指数の推定",
+        "procs": "動的画像処理実用化ワークショップ2020",
+        "page": "",
+        "year": "2020",
+        "month": "3",
+        "place": "",
+        "award": "",
+        "review": ""
+    }, 
+
+    {
+        "author": [
+            "向篤志", "金森滉太郎", "原真太朗", "富田英生", "寺林稜平", "島添健次", "Hanwool Woo", "田村雄介", "上ノ町水紀", "Agus Nurrachman", "高橋浩之", "海老秀虎", "石田文彦", "高田英治", "河原林順", "土屋兼一", "井口哲夫"
+        ],
+        "title": "無人ビークル搭載全方向ガンマイメージャを用いたガンマ線源推定法の開発",
+        "procs": "第34回研究会「放射線検出器とその応用」",
+        "page": "",
+        "year": "2020",
+        "month": "1",
+        "place": "つくば",
+        "award": "",
+        "review": ""
+    }
+]
