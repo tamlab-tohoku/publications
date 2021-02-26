@@ -1,15 +1,170 @@
 [
     {
         "author": [
-
+            "土居悠輝", "池勇勳", "田村雄介", "池田裕樹", "梅村篤志", "金島義治", "村上弘記", "山下淳", "淺間一"
         ],
-        "title": ,
-        "procs": ,
-        "page": ,
-        "year": ,
-        "month": ,
-        "place": ,
-        "award": ,
-        "review":
+        "title": "不整地走行移動ロボットの位置誤差を考慮したロバストな経路計画",
+        "procs": "第18回計測自動制御学会システムインテグレーション部門講演会講演論文集",
+        "page": "pp.3438-3443",
+        "year": "2017",
+        "month": "12",
+        "place": "仙台",
+        "award": "",
+        "review": ""
+    }, 
+
+    {
+        "author": [
+            "森山湧志", "藤井浩光", "田村雄介", "山川博司", "三鬼尚臣", "千葉拓史", "山本新吾", "茶山和博", "永谷圭司", "山下淳", "淺間一"
+        ],
+        "title": "バックホウの盛土作業における遠隔操作のための映像評価法",
+        "procs": "第18回計測自動制御学会システムインテグレーション部門講演会講演論文集",
+        "page": "pp.2763-2768",
+        "year": "2017",
+        "month": "12",
+        "place": "仙台",
+        "award": "",
+        "review": ""
+    }, 
+
+    {
+        "author": [
+            "湖上硯樹", "安琪", "楊濘嘉", "山川博司", "田村雄介", "山下淳", "淺間一", "下田真吾", "山崎弘嗣", "Matti Itkonen", "Fady Shibata-Alnajjar", "服部憲明", "木野本誠", "高橋幸治", "藤井崇典", "乙宗宏範", "宮井一郎"
+        ],
+        "title": "片麻痺患者の起立動作のリハビリテーションにおける理学療法士の技能の解析",
+        "procs": "計測自動制御学会システム・情報部門学術講演会2017講演論文集",
+        "page": "pp.345-346",
+        "year": "2017",
+        "month": "11",
+        "place": "浜松",
+        "award": "",
+        "review": ""
+    }, 
+
+    {
+        "author": [
+            "Ningjia Yang", "Qi An", "Hiroki Kogami", "Hiroshi Yamakawa", "Yusuke Tamura", "Atsushi Yamashita", "Hajime Asama", "Shingo Shimoda", "Hiroshi Yamasaki", "Matti Itkonen", "Fady Shibata-Alnajjar", "Noriaki Hattori", "Makoto Kinomoto", "Kouji Takahashi", "Takanori Fujii", "Hironori Otomune", "Ichiro Miyai"
+        ],
+        "title": "Clarification of Muscle Synergy Structure During Standing-up Motion of Healthy Elderly and Post-Stroke Patients",
+        "procs": "計測自動制御学会システム・情報部門学術講演会2017講演論文集",
+        "page": "pp.339-341",
+        "year": "2017",
+        "month": "11",
+        "place": "浜松",
+        "award": "",
+        "review": ""
+    }, 
+
+    {
+        "author": [
+            "Yuyang Shao", "Yonghoon Ji", "Hiromitsu Fujii", "Shingo Yamamoto", "Takumi Chiba", "Kazuhiro Chayama", "Yusuke Tamura", "Keiji Nagatani", "Atsushi Yamashita", "Hajime Asama"
+        ],
+        "title": "Estimation of Soil Volume Change Using UAV-Based 3D Terrain Mapping",
+        "procs": "計測自動制御学会システム・情報部門学術講演会2017講演論文集",
+        "page": "pp.247-250",
+        "year": "2017",
+        "month": "11",
+        "place": "浜松",
+        "award": "",
+        "review": ""
+    }, 
+
+    {
+        "author": [
+            "禹ハンウル", "池勇勳", "河野仁", "田村雄介", "黒田康秀", "菅野崇", "山本康典", "山下淳", "淺間一"
+        ],
+        "title": "車両挙動分析による先行者追従における運転者の運転特性推定",
+        "procs": "自動車技術会2017年春季大会学術講演会予稿集",
+        "page": "pp.1351-1356",
+        "year": "2017",
+        "month": "5",
+        "place": "横浜",
+        "award": "",
+        "review": ""
+    }, 
+
+    {
+        "author": [
+            "金度演", "禹ハンウル", "池勇勳", "田村雄介", "山下淳", "淺間一"
+        ],
+        "title": "コンプトンカメラを搭載した移動ロボットによるSLAMを用いた放射線源の位置推定手法の構築",
+        "procs": "日本機械学会ロボティクス・メカトロニクス講演会2017講演論文集",
+        "page": "2P1-R06",
+        "year": "2017",
+        "month": "5",
+        "place": "郡山",
+        "award": "",
+        "review": ""
+    }, 
+
+    {
+        "author": [
+            "田村雄介", "岡本孝司", "鈴木俊一", "淺間一", "太田順", "山本晃生", "山下淳", "福井類", "昆陽雅司", "大野和則", "松野文俊", "高橋隆行", "成瀬継太郎", "鈴木茂和", "横小路泰義"
+        ],
+        "title": "福島第一原子力発電所の廃止措置のための遠隔操作技術の開発と人材育成",
+        "procs": "日本機械学会ロボティクス・メカトロニクス講演会2017講演論文集",
+        "page": "2P1-R01",
+        "year": "2017",
+        "month": "5",
+        "place": "郡山",
+        "award": "",
+        "review": ""
+    }, 
+
+    {
+        "author": [
+            "田中佑典", "池勇勳", "河野仁", "田村雄介", "木村麻衣", "梅村篤志", "金島義治", "村上弘記", "山下淳", "淺間一"
+        ],
+        "title": "3次元環境地図を用いた不整地走行無人車両の経路計画",
+        "procs": "第22回ロボティクスシンポジア予稿集",
+        "page": "pp.198-199",
+        "year": "2017",
+        "month": "3",
+        "place": "安中",
+        "award": "",
+        "review": "査読有"
+    }, 
+
+    {
+        "author": [
+            "伊藤翼", "河野仁", "田村雄介", "山下淳", "淺間一"
+        ],
+        "title": "アーム搭載移動ロボットの駆動系故障時のための強化学習を用いたリカバリモーション獲得",
+        "procs": "第22回ロボティクスシンポジア予稿集",
+        "page": "pp.91-96",
+        "year": "2017",
+        "month": "3",
+        "place": "安中",
+        "award": "",
+        "review": "査読有"
+    }, 
+
+    {
+        "author": [
+            "吉田和憲", "安琪", "四津有人", "千葉龍介", "高草木薫", "山川博司", "田村雄介", "山下淳", "淺間一"
+        ],
+        "title": "カロリックテストを用いた前庭感覚情報が起立動作の筋シナジーに与える影響の解明",
+        "procs": "第22回ロボティクスシンポジア予稿集",
+        "page": "pp.16-23",
+        "year": "2017",
+        "month": "3",
+        "place": "安中",
+        "award": "",
+        "review": "査読有"
+    }, 
+
+    {
+        "author": [
+            "吉田和憲", "安琪", "四津有人", "千葉龍介", "高草木薫", "山川博司", "田村雄介", "山下淳", "淺間一"
+        ],
+        "title": "前庭感覚と視覚が起立動作の筋シナジーに与える影響の解析",
+        "procs": "第26回ライフサポート学会フロンティア講演会",
+        "page": "",
+        "year": "2017",
+        "month": "3",
+        "place": "東京",
+        "award": "",
+        "review": ""
     }
+
 ]

@@ -1,15 +1,145 @@
 [
     {
         "author": [
-
+            "杉本瑞生", "Hanwool Woo", "田村雄介", "山崎慎也", "黒田康秀", "菅野崇", "山本康典", "山下淳", "淺間一"
         ],
-        "title": ,
-        "procs": ,
-        "page": ,
-        "year": ,
-        "month": ,
-        "place": ,
-        "award": ,
-        "review":
+        "title": "車線変更が必須である交通環境下における他車の割り込み場所の推定",
+        "procs": "第19回計測自動制御学会システムインテグレーション部門講演会講演論文集",
+        "page": "pp.2925-2929",
+        "year": "2018",
+        "month": "12",
+        "place": "大阪",
+        "award": "",
+        "review": ""
+    }, 
+
+    {
+        "author": [
+            "水野秀哉", "筑紫彰太", "藤井浩光", "田村雄介", "永谷圭司", "山下淳", "淺間一"
+        ],
+        "title": "遠隔操作ロボット走行時における機体の姿勢変化による転倒回避",
+        "procs": "第19回計測自動制御学会システムインテグレーション部門講演会講演論文集",
+        "page": "pp.1680-1683",
+        "year": "2018",
+        "month": "12",
+        "place": "大阪",
+        "award": "SI2018優秀講演賞",
+        "review": ""
+    }, 
+
+
+    {
+        "author": [
+            "勝間慎弥", "Hanwool Woo", "田村雄介", "山下淳", "淺間一"
+        ],
+        "title": "オフライン探索の結果を用いた効率的な再探索を行う不整地移動ロボットの動作計画",
+        "procs": "第19回計測自動制御学会システムインテグレーション部門講演会講演論文集",
+        "page": "pp.1569-1574",
+        "year": "2018",
+        "month": "12",
+        "place": "大阪",
+        "award": "",
+        "review": ""
+    }, 
+
+
+    {
+        "author": [
+            "岸本卓也", "Hanwool Woo", "田村雄介", "大島佑介", "島添健次", "高橋浩之", "山下淳", "淺間一"
+        ],
+        "title": "ガンマ線検出器を搭載した移動ロボットによる複数放射線源の分布推定",
+        "procs": "第19回計測自動制御学会システムインテグレーション部門講演会講演論文集",
+        "page": "pp.665-667",
+        "year": "2018",
+        "month": "12",
+        "place": "大阪",
+        "award": "",
+        "review": ""
+    }, 
+
+
+    {
+        "author": [
+            "湖上碩樹", "Qi An", "楊濘嘉", "山川博司", "田村雄介", "山崎弘嗣", "Matti Itkonen", "Fady Shibata-Alnajjar", "下田真吾", "服部憲明", "木野本誠", "高橋幸治", "藤井崇典", "乙宗宏範", "宮井一郎", "山下淳", "淺間一"
+        ],
+        "title": "理学療法士の膝と臀部に対する介入が片麻痺患者の起立動作の身体軌道に与える影響の調査",
+        "procs": "計測自動制御学会システム・情報部門学術講演会2018講演論文集",
+        "page": "GS03-11",
+        "year": "2018",
+        "month": "11",
+        "place": "富山",
+        "award": "",
+        "review": ""
+    }, 
+
+
+    {
+        "author": [
+            "Qi An", "湖上碩樹", "楊濘嘉", "山川博司", "田村雄介", "山崎弘嗣", "Matti Itkonen", "Fady Shibata-Alnajjar", "下田真吾", "服部憲明", "木野本誠", "高橋幸治", "藤井崇典", "乙宗宏範", "宮井一郎", "山下淳", "淺間一"
+        ],
+        "title": "片麻痺患者の起立動作のリハビリテーションにおける理学療法士の技能と筋シナジーに与える影響の調査",
+        "procs": "計測自動制御学会システム・情報部門学術講演会2018講演論文集",
+        "page": "GS03-09",
+        "year": "2018",
+        "month": "11",
+        "place": "富山",
+        "award": "",
+        "review": ""
+    }, 
+
+    {
+        "author": [
+            "Hanwool Woo", "Mizuki Sugimoto", "Jiaxu Wu", "Yusuke Tamura", "Atsushi Yamashita", "Hajime Asama"
+        ],
+        "title": "Trajectory Prediction of Surrounding Vehicles Using Social LSTM Network",
+        "procs": "自動車技術会2018年秋季大会学術講演会予稿集",
+        "page": "20186277, pp.1-4",
+        "year": "2018",
+        "month": "10",
+        "place": "名古屋",
+        "award": "",
+        "review": ""
+    }, 
+
+    {
+        "author": [
+            "粟島靖之", "藤井浩光", "田村雄介", "永谷圭司", "山下淳", "淺間一"
+        ],
+        "title": "ロボット遠隔操作のための動力学シミュレーションを用いた走行安定性の提示",
+        "procs": "日本機械学会ロボティクス・メカトロニクス講演会2018講演論文集",
+        "page": "2A1-K06",
+        "year": "2018",
+        "month": "6",
+        "place": "北九州",
+        "award": "",
+        "review": ""
+    }, 
+
+    {
+        "author": [
+            "Hanwool Woo", "Yonghoon Ji", "Yusuke Tamura", "Yasuhide Kuroda", "Takashi Sugano", "Yasunori Yamamoto", "Atsushi Yamashita", "Hajime Asama"
+        ],
+        "title": "Trajectory Prediction for Other Vehicles Considering Individual Driving Characteristics",
+        "procs": "自動車技術会2018年春季大会学術講演会予稿集",
+        "page": "20185028, pp.1-7",
+        "year": "2018",
+        "month": "5",
+        "place": "横浜",
+        "award": "",
+        "review": ""
+    }, 
+
+    {
+        "author": [
+            "濱崎峻資", "安琪", "温文", "田村雄介", "山川博司", "畝中智志", "渋谷賢", "大木紫", "山下淳", "淺間一"
+        ],
+        "title": "上肢運動における身体所有感及び運動主体感が指の知覚位置に与える影響",
+        "procs": "第30回自律分散システム・シンポジウム資料",
+        "page": "pp.143-144",
+        "year": "2018",
+        "month": "1",
+        "place": "名古屋",
+        "award": "",
+        "review": ""
     }
 ]
