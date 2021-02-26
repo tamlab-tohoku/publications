@@ -41,7 +41,7 @@ $.when(
     $.getJSON(url2006),
     $.getJSON(url2005),
     $.getJSON(url2004),
-    $.getJSON(url2003)*/
+    $.getJSON(url2003)
 )
 .done(function(data2021, data2020, data2019, data2018, data2017, data2016, data2015, data2014, data2013, data2012, data2011, data2010, data2009, data2008, data2007, data2006, data2005, data2004, data2003){
   const cdata = [...data2021[0], ...data2020[0], ...data2019[0], ...data2018[0], ...data2017[0], ...data2016[0], ...data2015[0], ...data2014[0], ...data2013[0], ...data2012[0], ...data2011[0], ...data2010[0], ...data2009[0], ...data2008[0], ...data2007[0], ...data2006[0], ...data2005[0], ...data2004[0], ...data2003[0]];
