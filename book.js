@@ -2,20 +2,22 @@ rep_url = "https://raw.githubusercontent.com/tamlab-tohoku/publications/main/";
 
 var time = new Date().getTime();
 
+url2021 = rep_url + "book_2021.json" + "?" + time;
 url2019 = rep_url + "book_2019.json" +"?" + time;
 url2013 = rep_url + "book_2013.json" +"?" + time;
 url2010 = rep_url + "book_2010.json" +"?" + time;
 url2007 = rep_url + "book_2007.json" +"?" + time;
 url2006 = rep_url + "book_2006.json" +"?" + time;
 $.when(
+    $.getJSON(url2021),
     $.getJSON(url2019),
     $.getJSON(url2013),
     $.getJSON(url2010),
     $.getJSON(url2007),
     $.getJSON(url2006)
 )
-.done(function(data2019, data2013, data2010, data2007, data2006){
-     const cdata = [...data2019[0], ...data2013[0], ...data2010[0], ...data2007[0], ...data2006[0]];
+.done(function(data2021, data2019, data2013, data2010, data2007, data2006){
+     const cdata = [...data2021[0], ...data2019[0], ...data2013[0], ...data2010[0], ...data2007[0], ...data2006[0]];
      for(var i in cdata){
         var authors = cdata[i].author.join(', ');
         //authors = authors.replace('Yusuke Tamura', '<u>Yusuke Tamura</u>');
