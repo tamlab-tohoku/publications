@@ -1,26 +1,6 @@
 [
     {
         "author": [
-            "Kazunori Yoshida",
-            "Qi An",
-            "Hiroyuki Hamada",
-            "Hiroshi Yamakawa",
-            "Yusuke Tamura",
-            "Atsushi Yamashita",
-            "Hajime Asama"
-        ],
-        "title": "Artificial Neural Network that Modifies Muscle Activity in Sit-to-Stand Motion Using Sensory Input",
-        "journal": "Advanced Robotics",
-        "vol": "",
-        "no": "",
-        "page": "",
-        "url": "https://doi.org/10.1080/01691864.2021.1917452",
-        "year": "2021 (accepted)"
-    },
-
-    
-    {
-        "author": [
             "Hiroki Kogami",
             "Qi An",
             "Ningjia Yang",
@@ -47,8 +27,30 @@
         "no": "",
         "page": "",
         "url": "",
-        "year": "2021 (accepted)"
+        "year": "2021 (in press)"
     },
+
+    {
+        "author": [
+            "Kazunori Yoshida",
+            "Qi An",
+            "Hiroyuki Hamada",
+            "Hiroshi Yamakawa",
+            "Yusuke Tamura",
+            "Atsushi Yamashita",
+            "Hajime Asama"
+        ],
+        "title": "Artificial Neural Network that Modifies Muscle Activity in Sit-to-Stand Motion Using Sensory Input",
+        "journal": "Advanced Robotics",
+        "vol": "",
+        "no": "",
+        "page": "",
+        "url": "https://doi.org/10.1080/01691864.2021.1917452",
+        "year": "2021"
+    },
+
+    
+    
 
     {
         "author": [
