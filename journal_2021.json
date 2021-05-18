@@ -1,5 +1,25 @@
 [
     {
+        "auhtor": [
+            "Takuya Kishimoto",
+            "Hanwool Woo",
+            "Ren Komatsu",
+            "Yusuke Tamura",
+            "Hideki Tomita",
+            "Kenji Shimazoe",
+            "Atsushi Yamashita",
+            "Hajime Asama"
+        ],
+        "title": "Path Planning for Localization of Radiation Sources Based on Principal Component Analysis",
+        "journal": "Applied Sciences",
+        "vol": "",
+        "no": "",
+        "page": "",
+        "url": "",
+        "year": "2021 (accepted)"
+        
+    },
+    {
         "author": [
             "Hiroki Kogami",
             "Qi An",
