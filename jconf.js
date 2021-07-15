@@ -57,7 +57,7 @@ $.when(
     }else{
       $("#jconf_list").append("<li>" + authors + ": <strong>" + cdata[i].title +　"<\/strong>, <i>" + cdata[i].procs + "<\/i>, " + cdata[i].page + ", " + cdata[i].place + ", " + cdata[i].year + "年" + cdata[i].month + "月.");
     }
-    if(cdata[i].scrapbox != ""){
+    if(cdata[i].scrapbox){
       $("#jconf_list").append("<a href=\"" + cdata[i].scrapbox + "\">DB</a>");
     }
     if(cdata[i].award != ""){
