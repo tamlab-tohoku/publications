@@ -1,6 +1,57 @@
 [
     {
         "author": [
+            "Hiroki Kogami",
+            "Qi An",
+            "Ningjia Yang",
+            "Ruoxi Wang",
+            "Kazunori Yoshida",
+            "Hiroyuki Hamada",
+            "Hiroshi Yamakawa",
+            "Yusuke Tamura",
+            "Shingo Shimoda",
+            "Hiroshi Yamasaki",
+            "Moeka Sonoo",
+            "Fady Alnajjar",
+            "Noriaki Hattori",
+            "Koji Takahashi",
+            "Takanori Fujii",
+            "Hironori Otomune",
+            "Ichiro Miyai",
+            "Atsushi Yamashita",
+            "Hajime Asama"
+        ],
+        "title": "Analysis of Muscle Synergy and Kinematics in Sit-to-Stand Motion of Hemiplegic Patients in Subacute Period",
+        "journal": "Advanced Robotics",
+        "vol": "35",
+        "no": "13-14",
+        "page": "pp.867-877",
+        "url": "https://doi.org/10.1080/01691864.2021.1928547",
+        "year": "2021"
+    },
+
+    {
+        "author": [
+            "Kazunori Yoshida",
+            "Qi An",
+            "Hiroyuki Hamada",
+            "Hiroshi Yamakawa",
+            "Yusuke Tamura",
+            "Atsushi Yamashita",
+            "Hajime Asama"
+        ],
+        "title": "Artificial Neural Network that Modifies Muscle Activity in Sit-to-Stand Motion Using Sensory Input",
+        "journal": "Advanced Robotics",
+        "vol": "35",
+        "no": "13-14",
+        "page": "pp.858-866",
+        "url": "https://doi.org/10.1080/01691864.2021.1917452",
+        "year": "2021"
+    },
+
+
+    {
+        "author": [
            "Yusheng Wang",
            "Yonghoon Ji",
            "Hanwool Woo",
@@ -38,55 +89,7 @@
         "year": "2021"      
     },
 
-    {
-        "author": [
-            "Hiroki Kogami",
-            "Qi An",
-            "Ningjia Yang",
-            "Ruoxi Wang",
-            "Kazunori Yoshida",
-            "Hiroyuki Hamada",
-            "Hiroshi Yamakawa",
-            "Yusuke Tamura",
-            "Shingo Shimoda",
-            "Hiroshi Yamasaki",
-            "Moeka Sonoo",
-            "Fady Alnajjar",
-            "Noriaki Hattori",
-            "Koji Takahashi",
-            "Takanori Fujii",
-            "Hironori Otomune",
-            "Ichiro Miyai",
-            "Atsushi Yamashita",
-            "Hajime Asama"
-        ],
-        "title": "Analysis of Muscle Synergy and Kinematics in Sit-to-Stand Motion of Hemiplegic Patients in Subacute Period",
-        "journal": "Advanced Robotics",
-        "vol": "",
-        "no": "",
-        "page": "",
-        "url": "https://doi.org/10.1080/01691864.2021.1928547",
-        "year": "2021"
-    },
 
-    {
-        "author": [
-            "Kazunori Yoshida",
-            "Qi An",
-            "Hiroyuki Hamada",
-            "Hiroshi Yamakawa",
-            "Yusuke Tamura",
-            "Atsushi Yamashita",
-            "Hajime Asama"
-        ],
-        "title": "Artificial Neural Network that Modifies Muscle Activity in Sit-to-Stand Motion Using Sensory Input",
-        "journal": "Advanced Robotics",
-        "vol": "",
-        "no": "",
-        "page": "",
-        "url": "https://doi.org/10.1080/01691864.2021.1917452",
-        "year": "2021"
-    },
 
     
     
