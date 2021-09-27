@@ -1,6 +1,74 @@
 [
     {
         "author": [
+            "Atsushi Mukai",
+            "Keita Yamagishi",
+            "Shintaro Hara",
+            "Ryohei Terabayashi",
+            "Kenji Shimazoe",
+            "Yusuke Tamura",
+            "Hanwool Woo",
+            "Takuya Kishimoto",
+            "Hiroki Kogami",
+            "Zhong Zhihong",
+            "Mizuki Uenomachi",
+            "Agus Nurrachman",
+            "Hiroyuki Takahashi",
+            "Hajime Asama",
+            "Fumihiko Ishida",
+            "Hidetake Ebi",
+            "Eiji Takada",
+            "Jun Kawarabayashi",
+            "Kousuke Tanabe",
+            "Kei Kamada",
+            "Hideki Tomita"
+        ],
+        "title": "Development of Radiation Source Identification Device based on 4π Gamma Imaging with LiDAR-SLAM",
+        "procs": "2021 IEEE Nuclear Science Symposium and Medical Imaging Conference",
+        "page": "",
+        "url": "",
+        "year": "2021",
+        "month": "October",
+        "place": "Online",
+        "award": ""
+    },
+
+    {
+        "author": [
+            "Shintaro Hara",
+            "Hideki Tomita",
+            "Atsushi Mukai",
+            "Keita Yamagishi",
+            "Hidetake Ebi",
+            "Ryohei Terabayashi",
+            "Kenji Shimazoe",
+            "Agus Nurrachman",
+            "Zhong Zhihong",
+            "Mizuki Uenomachi",
+            "Hanwool Woo",
+            "Takuya Kishimoto",
+            "Hiroki Kogami",
+            "Hajime Asama",
+            "Yusuke Tamura",
+            "Fumihiko Ishida",
+            "Eiji Takada",
+            "Jun Kawarabayashi",
+            "Kousuke Tanabe",
+            "Kei Kamada"
+        ],
+        "title": "Measurement Protocol Optimization using Machine Learning for Radiation Source Identification based on 4π Gamma Imaging",
+        "procs": "2021 IEEE Nuclear Science Symposium and Medical Imaging Conference",
+        "page": "",
+        "url": "",
+        "year": "2021",
+        "month": "October",
+        "place": "Online",
+        "award": ""
+    },
+
+
+    {
+        "author": [
             "Ren Komatsu",
             "Hanwool Woo",
             "Yusuke Tamura",
