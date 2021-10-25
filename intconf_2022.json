@@ -1,6 +1,25 @@
 [
     {
         "author": [
+            "Ziheng Chao",
+            "Ren Komatsu",
+            "Hanwool Woo",
+            "Yusuke Tamura",
+            "Atsushi Yamashita",
+            "Hajime Asama"
+        ],
+        "title": "Estimation of Radiation Source Distribution Using Structure Information for Fukushima Daiichi Nuclear Power Plant Reactor",
+        "procs": "2022 IEEE/SICE International Symposium on System Integration",
+        "page": "",
+        "url": "",
+        "year": "2022",
+        "month": "January",
+        "place": "Online",
+        "award": ""
+    },
+
+    {
+        "author": [
             "Haoxiang Liu",
             "Ren Komatsu",
             "Hanwool Woo",
