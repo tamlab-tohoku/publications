@@ -1,6 +1,24 @@
 [
     {
         "author": [
+            "Ziheng Chao",
+            "Ren Komatsu",
+            "Hanwool Woo",
+            "Yusuke Tamura",
+            "Atsushi Yamashita",
+            "Hajime Asama"
+        ],
+        "title": "Radiation Distribution Estimation with Non-directional Detector Using Plane Source Model",
+        "journal": "Advanced Robotics",
+        "vol": "",
+        "no": "",
+        "page": "",
+        "url": "",
+        "year": "(accepted)"
+    },
+    
+    {
+        "author": [
             "Hiroki Kogami",
             "Qi An",
             "Ningjia Yang",
