@@ -1,6 +1,23 @@
 [
     {
         "author": [
+            "川住歩弥",
+            "田村雄介",
+            "平田泰久"
+        ],
+        "title": "人とロボットの安全な共存のためのカメラ映像を用いた歩きスマホ検出",
+        "procs": "第22回計測自動制御学会システムインテグレーション部門講演会講演論文集",
+        "page": "3D4-07",
+        "year": "2021",
+        "month": "12",
+        "place": "オンライン",
+        "award": "",
+        "review": "",
+        "scrapbox": "https://scrapbox.io/tamlab-tohoku/人とロボットの安全な共存のためのカメラ映像を用いた歩きスマホ検出"
+     },
+
+    {
+        "author": [
             "Agus Nurrachman",
             "Kenji Shimazoe",
             "Hiroyuki Takahashi",
